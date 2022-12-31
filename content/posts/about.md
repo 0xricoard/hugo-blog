@@ -1,9 +1,7 @@
 ---
 title: "About Me"
 date: 2023-01-01T09:03:20-08:00
-url: /about/
-slug: "about"
-name: "about"
+draft: false
 ---
 ## So do you know about me huh?
 
