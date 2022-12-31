@@ -70,6 +70,8 @@ params:
         url: posts
       - name: Tags
         url: tags
+      - name: about
+        url: about
 
   # home-info mode
   homeInfoParams:
