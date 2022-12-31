@@ -124,9 +124,9 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: about
-      name: about
-      url: /about/
+    - identifier: About Me
+      name: About Me
+      pageRef: /about
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
