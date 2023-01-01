@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bot on Rico Ardiansyah&#39;s Blog</title>
+    <link>https://blog.muhammadri.co/tags/bot/</link>
+    <description>Recent content in Bot on Rico Ardiansyah&#39;s Blog</description>
+    <image>
+      <url>https://blog.muhammadri.co/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.muhammadri.co/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 31 Dec 2022 05:52:00 -0700</lastBuildDate><atom:link href="https://blog.muhammadri.co/tags/bot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Script Bot Komen Facebook Dan Cara Pemasanganya</title>
+      <link>https://blog.muhammadri.co/posts/script-bot-komen-facebook-dan-cara-pemasanganya/</link>
+      <pubDate>Sat, 31 Dec 2022 05:52:00 -0700</pubDate>
+      
+      <guid>https://blog.muhammadri.co/posts/script-bot-komen-facebook-dan-cara-pemasanganya/</guid>
+      <description>Hallo, Kali ini gua akan share Cara Membuat Bot Komen Facebook menggunakan script PHP berikut caranya:
+Cara Membuatnya Adalah:
+1.Login Ke cPanel anda, Masuk ke dir filemanager &amp;gt; public_html
+2.Download Bot Komen Facebooknya : Download Sc Bot
+3.Upload script bot komen yang tadi sudah di download
+4.Extract scbot.zip nanti jika sudah di Extract akan keluar file-file php
+5.Edit script bot dan ganti bagian Accses Token Facebook, silahkan ganti dengan accses token facebook kalian.</description>
+    </item>
+    
+  </channel>
+</rss>
