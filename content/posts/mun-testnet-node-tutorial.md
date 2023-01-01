@@ -93,7 +93,7 @@ nano ~/.mun/config/config.toml
 seeds = "XXXX"
 ```
 
-Please ask in our Discord for the seeds to replace XXXX! Join our Discord: https://discord.gg/mun
+Please ask in the Discord channel for the seeds to replace XXXX! Join our Discord: https://discord.gg/mun
 
 ## Replace stake to TMUN
 ```
@@ -156,7 +156,7 @@ sudo systemctl enable mund
 sudo systemctl start mund && journalctl -u mund -f -o cat
 ```
 
-## You can now logout from your ssh. You ccan verify if your node is running properly
+## You can now logout from your ssh. You can verify if your node is running properly
 ```
 mund status
 ```
