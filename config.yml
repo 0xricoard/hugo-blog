@@ -87,6 +87,8 @@ params:
       url: "https://facebook.com/0xricoard"
     - name: github
       url: "https://github.com/0xricoard"
+    - name: instagram
+      url: "https://instagram.com/0xricoard"
 
   analytics:
     google:
@@ -142,8 +144,8 @@ pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+  # anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: monokai
