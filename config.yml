@@ -131,6 +131,9 @@ menu:
       name: About Me
       url: /posts/about
       weight: 10
+    - name: Search
+      url: search/
+      weight: 10
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
