@@ -1,6 +1,6 @@
 ---
 title: 'Script Bot Komen Facebook Dan Cara Pemasanganya'
-date: 2023-01-01T05:52:00.002-07:00
+date: 2022-12-31T05:52:00.002-07:00
 draft: false
 cover:
     image: 'https://3.bp.blogspot.com/-x8jfz3eyikU/WbE-gZdngMI/AAAAAAAAAGg/N7Y8_FNCp4wovJe_bssmoQqE7CWjodjlwCLcBGAs/s320/facebook-bot-engine.png'
