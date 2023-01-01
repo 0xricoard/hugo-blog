@@ -17,8 +17,7 @@
       
       <guid>https://blog.muhammadri.co/posts/script-bot-komen-facebook-dan-cara-pemasanganya/</guid>
       <description>Hallo, Kali ini gua akan share Cara Membuat Bot Komen Facebook menggunakan script PHP berikut caranya:
-Cara Membuatnya Adalah:
-1.Login Ke cPanel anda, Masuk ke dir filemanager &amp;gt; public_html
+Langkah-langkah installasi: 1.Login Ke cPanel anda, Masuk ke dir filemanager &amp;gt; public_html
 2.Download Bot Komen Facebooknya : Download Sc Bot
 3.Upload script bot komen yang tadi sudah di download
 4.Extract scbot.zip nanti jika sudah di Extract akan keluar file-file php
