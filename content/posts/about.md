@@ -2,6 +2,9 @@
 title: "About Me"
 date: 2022-12-31T09:03:20-08:00
 draft: false
+cover:
+    image: "./img/6883161A-0B31-471D-BC5D-1AD89A56FA7A.png"
+ 
 ---
 ## So do you know about me huh?
 
