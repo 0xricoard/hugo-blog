@@ -4,9 +4,7 @@ date: 2022-12-31T09:03:20-08:00
 draft: false
 cover:
     image: "./img/6883161A-0B31-471D-BC5D-1AD89A56FA7A.png"
-alt: "Riddler Sign" # alt text
-    caption: "Riddler Sign" # display caption under cover
-    relative: false # when using page bundles set this to true
+relative: true
 ---
 ## So do you know about me huh?
 
