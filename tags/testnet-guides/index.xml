@@ -9,7 +9,16 @@
       <link>https://blog.muhammadri.co/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 09 Oct 2022 21:44:48 +0000</lastBuildDate><atom:link href="https://blog.muhammadri.co/tags/testnet-guides/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.muhammadri.co/tags/testnet-guides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MUN Testnet Node Tutorial</title>
+      <link>https://blog.muhammadri.co/posts/mun-testnet-node-tutorial/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muhammadri.co/posts/mun-testnet-node-tutorial/</guid>
+      <description>How to join MUN Blockchain Infrastructure **Recommended configuration:** - Number of CPUs: 4 - Memory: 16GB - OS: Ubuntu 22.04 LTS - Allow all incoming connections from TCP port 26656 and 26657 - Static IP address - Min. 500 GB HD (SSD) Installing prerequisites sudo apt update sudo apt upgrade -y sudo apt install build-essential jq -y Install Golang: Install latest go version https://golang.org/doc/install wget -q -O - https://raw.githubusercontent.com/canha/golang-tools-install-script/master/goinstall.sh | bash -s -- --version 1.</description>
+    </item>
+    
     <item>
       <title>MUN Nodes State-Sync</title>
       <link>https://blog.muhammadri.co/posts/mun-nodes-state-sync/</link>

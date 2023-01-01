@@ -9,22 +9,22 @@
       <link>https://blog.muhammadri.co/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 31 Dec 2022 05:52:00 -0700</lastBuildDate><atom:link href="https://blog.muhammadri.co/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.muhammadri.co/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testnet Guides</title>
+      <link>https://blog.muhammadri.co/tags/testnet-guides/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muhammadri.co/tags/testnet-guides/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Bot</title>
       <link>https://blog.muhammadri.co/tags/bot/</link>
       <pubDate>Sat, 31 Dec 2022 05:52:00 -0700</pubDate>
       
       <guid>https://blog.muhammadri.co/tags/bot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Testnet Guides</title>
-      <link>https://blog.muhammadri.co/tags/testnet-guides/</link>
-      <pubDate>Sun, 09 Oct 2022 21:44:48 +0000</pubDate>
-      
-      <guid>https://blog.muhammadri.co/tags/testnet-guides/</guid>
       <description></description>
     </item>
     
