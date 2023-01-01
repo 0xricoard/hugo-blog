@@ -13,7 +13,11 @@ googleAnalytics: UA-123-45
 minify:
   disableXML: true
   minifyOutput: true
-
+outputs:
+      home:
+          - HTML
+          - RSS
+          - JSON # is necessary
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Rico Ardiansyah's Blog
@@ -112,11 +116,6 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-  outputs:
-      home:
-          - HTML
-          - RSS
-          - JSON # is necessary
 menu:
   main:
     - identifier: tags
