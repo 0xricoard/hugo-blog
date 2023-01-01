@@ -1,6 +1,6 @@
 ---
 title: 'Script Bot Komen Facebook Dan Cara Pemasanganya'
-date: 2017-09-07T05:52:00.002-07:00
+date: 2023-01-01T05:52:00.002-07:00
 draft: false
 cover:
     image: 'https://3.bp.blogspot.com/-x8jfz3eyikU/WbE-gZdngMI/AAAAAAAAAGg/N7Y8_FNCp4wovJe_bssmoQqE7CWjodjlwCLcBGAs/s320/facebook-bot-engine.png'
@@ -11,7 +11,7 @@ tags:
 [![](https://3.bp.blogspot.com/-x8jfz3eyikU/WbE-gZdngMI/AAAAAAAAAGg/N7Y8_FNCp4wovJe_bssmoQqE7CWjodjlwCLcBGAs/s320/facebook-bot-engine.png)](https://3.bp.blogspot.com/-x8jfz3eyikU/WbE-gZdngMI/AAAAAAAAAGg/N7Y8_FNCp4wovJe_bssmoQqE7CWjodjlwCLcBGAs/s1600/facebook-bot-engine.png)
 
   
-Hallo, Kali ini admin akan share **Cara Membuat Bot Komen Facebook** menggunakan script PHP berikut caranya:  
+Hallo, Kali ini gua akan share **Cara Membuat Bot Komen Facebook** menggunakan script PHP berikut caranya:  
 Cara Membuatnya Adalah:  
   
 1.Login Ke cPanel anda, Masuk ke dir filemanager > public\_html  
