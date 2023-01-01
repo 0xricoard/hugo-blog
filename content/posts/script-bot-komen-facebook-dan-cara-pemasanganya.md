@@ -8,7 +8,7 @@ tags:
 - Bot
 ---
 
-[![](https://3.bp.blogspot.com/-x8jfz3eyikU/WbE-gZdngMI/AAAAAAAAAGg/N7Y8_FNCp4wovJe_bssmoQqE7CWjodjlwCLcBGAs/s320/facebook-bot-engine.png)](https://3.bp.blogspot.com/-x8jfz3eyikU/WbE-gZdngMI/AAAAAAAAAGg/N7Y8_FNCp4wovJe_bssmoQqE7CWjodjlwCLcBGAs/s1600/facebook-bot-engine.png)
+![](https://3.bp.blogspot.com/-x8jfz3eyikU/WbE-gZdngMI/AAAAAAAAAGg/N7Y8_FNCp4wovJe_bssmoQqE7CWjodjlwCLcBGAs/s320/facebook-bot-engine.png)](https://3.bp.blogspot.com/-x8jfz3eyikU/WbE-gZdngMI/AAAAAAAAAGg/N7Y8_FNCp4wovJe_bssmoQqE7CWjodjlwCLcBGAs/s1600/facebook-bot-engine.png)
 
   
 Hallo, Kali ini gua akan share **Cara Membuat Bot Komen Facebook** menggunakan script PHP berikut caranya:  
