@@ -121,19 +121,19 @@ menu:
     - identifier: archive
       name: Archive
       url: /archives/
-      weight: 10
+      weight: 40
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
-      weight: 10
+      weight: 30
     - identifier: contact
       name: Contact Me
       url: mailto:rikohacker007@gmail.com
-      weight: 10
-    - identifier: tentang saya
+      weight: 20
+    - identifier: About
       name: About
       url: /posts/about
-      weight: 10
+      weight: 50
     - name: Search
       url: search/
       weight: 10
