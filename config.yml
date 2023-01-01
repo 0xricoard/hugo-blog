@@ -54,7 +54,7 @@ params:
   label:
     text: "Rico Ardiansyah - Blog"
     icon: /apple-touch-icon.png
-    iconHeight: 35
+    iconHeight: 30
 
   # profile-mode
   profileMode:
@@ -117,7 +117,7 @@ menu:
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 20
+      weight: 10
     - identifier: contact
       name: Contact Me
       url: mailto:rikohacker007@gmail.com
@@ -125,7 +125,7 @@ menu:
     - identifier: About Me
       name: About Me
       url: /posts/about
-      weight: 30
+      weight: 10
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
