@@ -44,5 +44,20 @@ peers=&amp;#34;e1733d60e1bbbee3241f62c10257555efb8398a5@bimasaktimunrpc.westeuro
 sed -i.bak -E &amp;#34;s|^(enable[[:space:]]+=[[:space:]]+).*$|\1true| ; \ s|^(rpc_servers[[:space:]]+=[[:space:]]+).*$|\1\&amp;#34;$RPC,$RPC\&amp;#34;| ; \ s|^(trust_height[[:space:]]+=[[:space:]]+).</description>
     </item>
     
+    <item>
+      <title>Script Bot Komen Facebook Dan Cara Pemasanganya</title>
+      <link>https://blog.muhammadri.co/posts/script-bot-komen-facebook-dan-cara-pemasanganya/</link>
+      <pubDate>Thu, 07 Sep 2017 05:52:00 -0700</pubDate>
+      
+      <guid>https://blog.muhammadri.co/posts/script-bot-komen-facebook-dan-cara-pemasanganya/</guid>
+      <description>Hallo, Kali ini admin akan share Cara Membuat Bot Komen Facebook menggunakan script PHP berikut caranya:
+Cara Membuatnya Adalah:
+1.Login Ke cPanel anda, Masuk ke dir filemanager &amp;gt; public_html
+2.Download Bot Komen Facebooknya : Download Sc Bot
+3.Upload script bot komen yang tadi sudah di download
+4.Extract scbot.zip nanti jika sudah di Extract akan keluar file-file php
+5.Edit script bot dan ganti bagian Accses Token Facebook, silahkan ganti dengan accses token facebook kalian.</description>
+    </item>
+    
   </channel>
 </rss>
