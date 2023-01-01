@@ -130,8 +130,8 @@ menu:
       name: Contact Me
       url: mailto:rikohacker007@gmail.com
       weight: 10
-    - identifier: About Me
-      name: About Me
+    - identifier: tentang saya
+      name: About
       url: /posts/about
       weight: 10
     - name: Search
