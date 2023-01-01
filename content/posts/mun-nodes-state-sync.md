@@ -9,10 +9,8 @@ cover:
 
 ![](https://guides.bimasaktivalidator.my.id/wp-content/uploads/2022/10/28F9B0FA-FB84-4B23-A837-F7CAFB78095D-1024x341.jpeg)
 
-For a tutorial on how to install MUN node [click here](https://github.com/elangrr/testnet_guide/tree/main/mun).
-
 # For chain id testmun
-
+For a tutorial on how to install MUN node [click here](https://github.com/elangrr/testnet_guide/tree/main/mun).
 ### Set RPC to BimaSakti
 
 ```
