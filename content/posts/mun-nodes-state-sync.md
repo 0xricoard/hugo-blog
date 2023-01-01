@@ -11,7 +11,7 @@ cover:
 
 For a tutorial on how to install MUN node [click here](https://github.com/elangrr/testnet_guide/tree/main/mun).
 
-#For chain id testmun
+# For chain id testmun
 
 ### Set RPC to BimaSakti
 
