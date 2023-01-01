@@ -70,8 +70,6 @@ params:
         url: posts
       - name: Tags
         url: tags
-      - name: about
-        url: about
 
   # home-info mode
   homeInfoParams:
@@ -116,9 +114,9 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: contact
+      name: Contact Me
+      url: mailto:rikohacker007@gmail.com
       weight: 10
     - identifier: tags
       name: tags
