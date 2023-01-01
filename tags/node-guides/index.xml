@@ -1,34 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Rico Ardiansyah&#39;s Blog</title>
-    <link>https://blog.muhammadri.co/posts/</link>
-    <description>Recent content in Posts on Rico Ardiansyah&#39;s Blog</description>
+    <title>Node Guides on Rico Ardiansyah&#39;s Blog</title>
+    <link>https://blog.muhammadri.co/tags/node-guides/</link>
+    <description>Recent content in Node Guides on Rico Ardiansyah&#39;s Blog</description>
     <image>
       <url>https://blog.muhammadri.co/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://blog.muhammadri.co/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 31 Dec 2022 09:03:20 -0800</lastBuildDate><atom:link href="https://blog.muhammadri.co/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>https://blog.muhammadri.co/posts/about/</link>
-      <pubDate>Sat, 31 Dec 2022 09:03:20 -0800</pubDate>
-      
-      <guid>https://blog.muhammadri.co/posts/about/</guid>
-      <description>So do you know about me huh? I am student who likes the world of computers and the internet. Send Me a anonymous message if you want to be close to me https://secreto.site/id/apt4b6</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://blog.muhammadri.co/posts/helloworld/</link>
-      <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
-      
-      <guid>https://blog.muhammadri.co/posts/helloworld/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
-    </item>
-    
+    <lastBuildDate>Sun, 09 Oct 2022 21:44:48 +0000</lastBuildDate><atom:link href="https://blog.muhammadri.co/tags/node-guides/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MUN Nodes State-Sync</title>
       <link>https://blog.muhammadri.co/posts/mun-nodes-state-sync/</link>
