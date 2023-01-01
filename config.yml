@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Rico Ardiansyah's Blog
-  description: "ExampleSite description"
+  description: "Welcome to my blog"
   keywords: [Blog, Portfolio, PaperMod]
   author: Rico Ardiansyah
   # author: ["Me", "You"] # multiple authors
@@ -112,6 +112,11 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+    outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
 menu:
   main:
     - identifier: tags
