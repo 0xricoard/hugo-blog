@@ -5,7 +5,6 @@ draft: false
 tags: ['Node Guides']
 cover:
     image: "https://guides.bimasaktivalidator.my.id/wp-content/uploads/2022/10/28F9B0FA-FB84-4B23-A837-F7CAFB78095D-1024x341.jpeg"
-relative: true
 ---
 
 ![](https://guides.bimasaktivalidator.my.id/wp-content/uploads/2022/10/28F9B0FA-FB84-4B23-A837-F7CAFB78095D-1024x341.jpeg)
