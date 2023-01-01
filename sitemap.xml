@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.muhammadri.co/tags/bot/</loc>
-    <lastmod>2022-12-31T05:52:00-07:00</lastmod>
+    <loc>https://blog.muhammadri.co/posts/about/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.muhammadri.co/posts/</loc>
-    <lastmod>2022-12-31T05:52:00-07:00</lastmod>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.muhammadri.co/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.muhammadri.co/tags/bot/</loc>
     <lastmod>2022-12-31T05:52:00-07:00</lastmod>
   </url><url>
     <loc>https://blog.muhammadri.co/posts/script-bot-komen-facebook-dan-cara-pemasanganya/</loc>
