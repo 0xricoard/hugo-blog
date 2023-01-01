@@ -114,14 +114,14 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: contact
-      name: Contact Me
-      url: mailto:rikohacker007@gmail.com
-      weight: 10
     - identifier: tags
       name: tags
       url: /tags/
       weight: 20
+    - identifier: contact
+      name: Contact Me
+      url: mailto:rikohacker007@gmail.com
+      weight: 10
     - identifier: About Me
       name: About Me
       url: /posts/about
