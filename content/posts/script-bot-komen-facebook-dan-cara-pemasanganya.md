@@ -12,7 +12,7 @@ tags:
 
   
 Hallo, Kali ini gua akan share **Cara Membuat Bot Komen Facebook** menggunakan script PHP berikut caranya:  
-Cara Membuatnya Adalah:  
+## Langkah-langkah installasi:  
   
 1.Login Ke cPanel anda, Masuk ke dir filemanager > public\_html  
   
