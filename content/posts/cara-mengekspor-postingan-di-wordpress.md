@@ -18,23 +18,23 @@ Wordpress sendiri menyediakan fitur bawaan yang sudah ada yaitu dengan menggunak
 
 # Cara Ekspor postingan Wordpress
 
-## 1.Pastikan sudah login di Dashboard admin wordpress
+### 1.Pastikan sudah login di Dashboard admin wordpress
 
 Untuk melakukan login pada wordpress biasanya hanya menambahkan path dibelakang url situs dengan wp-admin atau wp-login.php contoh _https://example.com/wp-admin_ atau _https://example.com/wp-login.php_
 
-## 2.Pilih menu **Tools** dan klik pada tombol **Export**
+### 2.Pilih menu **Tools** dan klik pada tombol **Export**
 
 ![](https://guides.bimasaktivalidator.my.id/wp-content/uploads/2023/01/menu-tools-1.png)
 
 Jika situs Anda disetel bahasanya ke Bahasa Indonesia maka tertulis Alat dan Ekspor
 
-## 3.Pilih yang akan diekspor
+### 3.Pilih yang akan diekspor
 
 Dalam hal ini kita akan mengekspor hanya postingannya saja maka pilih Posts kemudian kita dapat menentukan kategori, penulis, tanggal mulai, tanggal akhir dan status postingan. Kita akan mengekspor semua postingan yang ada di Wordpress tersebut maka pilih All.
 
 ![](https://guides.bimasaktivalidator.my.id/wp-content/uploads/2023/01/image.png)
 
-## 4.Download File Ekspor
+### 4.Download File Ekspor
 
 Setelah mengatur postingan apa saja yang ingin di Ekspor selanjutkan klik Download Export File.
 
