@@ -9,7 +9,16 @@
       <link>https://blog.muhammadri.co/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.muhammadri.co/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.muhammadri.co/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara mengekspor postingan di Wordpress</title>
+      <link>https://blog.muhammadri.co/posts/cara-mengekspor-postingan-di-wordpress/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muhammadri.co/posts/cara-mengekspor-postingan-di-wordpress/</guid>
+      <description>Ilustrasi WordPress adalah sistem pengelolaan konten (Content Management System - CMS) yang bersifat open source dan dapat digunakan untuk membuat situs web dan blog. WordPress menyediakan seperangkat alat dan fitur yang memudahkan pengguna untuk membuat dan mengelola konten situs web mereka, seperti posting blog, halaman, media, dan lainnya. WordPress juga memiliki banyak tema dan plugin yang tersedia, yang memungkinkan pengguna untuk mempercantik dan menambah fitur ke situs web mereka dengan mudah.</description>
+    </item>
+    
     <item>
       <title>About Me</title>
       <link>https://blog.muhammadri.co/posts/about/</link>
@@ -60,15 +69,6 @@ Visit the Hugo website!</description>
       <guid>https://blog.muhammadri.co/posts/mun-nodes-state-sync/</guid>
       <description>For chain id testmun For a tutorial on how to install MUN node click here.
 Set RPC to BimaSakti RPC=&amp;#34;http://bimasaktimunrpc.westeurope.cloudapp.azure.com:26657&amp;#34; set variables $LATEST_HEIGHT $BLOCK_HEIGHT $TRUST_HASH LATEST_HEIGHT=$(curl -s $RPC/block | jq -r .result.block.header.height); \ BLOCK_HEIGHT=$((LATEST_HEIGHT - 2000)); \ TRUST_HASH=$(curl -s &amp;#34;$RPC/block?height=$BLOCK_HEIGHT&amp;#34; | jq -r .result.block_id.hash) Configure persisten peers peers=&amp;#34;e1733d60e1bbbee3241f62c10257555efb8398a5@bimasaktimunrpc.westeurope.cloudapp.azure.com:26656&amp;#34; sed -i.bak -e &amp;#34;s/^persistent_peers *=.*/persistent_peers = \&amp;#34;$peers\&amp;#34;/&amp;#34; $HOME/.mun/config/config.toml Then copy this command sed -i.bak -E &amp;#34;s|^(enable[[:space:]]+=[[:space:]]+).*$|\1true| ; \ s|^(rpc_servers[[:space:]]+=[[:space:]]+).*$|\1\&amp;#34;$RPC,$RPC\&amp;#34;| ; \ s|^(trust_height[[:space:]]+=[[:space:]]+).</description>
-    </item>
-    
-    <item>
-      <title>Cara mengekspor postingan di Wordpress</title>
-      <link>https://blog.muhammadri.co/posts/cara-mengekspor-postingan-di-wordpress/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.muhammadri.co/posts/cara-mengekspor-postingan-di-wordpress/</guid>
-      <description>Ilustrasi WordPress adalah sistem pengelolaan konten (Content Management System - CMS) yang bersifat open source dan dapat digunakan untuk membuat situs web dan blog. WordPress menyediakan seperangkat alat dan fitur yang memudahkan pengguna untuk membuat dan mengelola konten situs web mereka, seperti posting blog, halaman, media, dan lainnya. WordPress juga memiliki banyak tema dan plugin yang tersedia, yang memungkinkan pengguna untuk mempercantik dan menambah fitur ke situs web mereka dengan mudah.</description>
     </item>
     
   </channel>
