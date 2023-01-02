@@ -1,5 +1,5 @@
 ---
-title: 'Cara mengekspor postingan di Wordpress'
+title: 'Cara ekspor postingan di Wordpress'
 date: 2023-01-02
 draft: false
 tags: ['Tutorial Wordpress']
