@@ -8,7 +8,7 @@ cover:
 ---
 
 ![](./img/wordpress-illustration.jpg)
-| ![wordpress-illustration.jpg](./img/wordpress-illustration.jpg) |
+| ![wordpress-illustration.jpg](https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/wordpress-illustration.jpg) |
 |:--:|
 | Ilustrasi |
 
