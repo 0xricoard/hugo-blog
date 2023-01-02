@@ -8,9 +8,8 @@ cover:
 ---
 
 ![](./img/wordpress-illustration.jpg)
-| ![wordpress-illustration.jpg](https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/wordpress-illustration.jpg) |
-|:--:|
-| Ilustrasi |
+![wordpress-illustration](https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/wordpress-illustration.jpg "Ilustrasi") 
+
 
 
 **WordPress** adalah sistem pengelolaan konten (_Content Management System_ - CMS) yang bersifat open source dan dapat digunakan untuk membuat situs web dan blog. WordPress menyediakan seperangkat alat dan fitur yang memudahkan pengguna untuk membuat dan mengelola konten situs web mereka, seperti posting blog, halaman, media, dan lainnya. WordPress juga memiliki banyak tema dan plugin yang tersedia, yang memungkinkan pengguna untuk mempercantik dan menambah fitur ke situs web mereka dengan mudah.
