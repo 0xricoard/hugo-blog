@@ -1,6 +1,6 @@
 ---
 title: 'Cara mengekspor postingan di Wordpress'
-date: Mon, 02 Jan 2023 19:55:03 +0000
+date: Mon, 02 Jan 2023
 draft: false
 tags: ['Tutorial Wordpress']
 cover:
