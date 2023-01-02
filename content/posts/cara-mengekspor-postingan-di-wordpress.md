@@ -16,7 +16,7 @@ Sebagai seorang blogger maupun _administrator_ tentunya kita akan memelihara ser
 
 Wordpress sendiri menyediakan fitur bawaan yang sudah ada yaitu dengan menggunakan _Tools_ Ekspor pada dashboardnya. Berikut adalah cara untuk mengekspor postingan Wordpress:
 
-# Cara Ekspor postingan Wordpress
+## Cara Ekspor postingan Wordpress
 
 ### 1.Pastikan sudah login di Dashboard admin wordpress
 
