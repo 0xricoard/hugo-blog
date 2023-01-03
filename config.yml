@@ -19,6 +19,8 @@ outputs:
           - RSS
           - JSON # is necessary
 params:
+  comments: true
+  disqusShortname: blog-rico.disqus.com
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Rico Ardiansyah's Blog
   description: "Welcome to my blog"
