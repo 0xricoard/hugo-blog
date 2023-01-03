@@ -4,10 +4,10 @@ date: 2023-01-03
 draft: false
 tags: ['Gaga Node', 'Testnet Guides', 'Uncategorized']
 cover:
-    image: "https://docs.gaganode.com/assets/gaganode-center.c7715456.jpeg"
+    image: "./img/0B1AA8E8-F9FE-45F7-BD90-604F8C557C65.jpeg"
 ---
 
-![](https://docs.gaganode.com/assets/gaganode-center.c7715456.jpeg)
+![](./img/0B1AA8E8-F9FE-45F7-BD90-604F8C557C65.jpeg)
 
 Testnet Node sekarang lagi rame banget. Buat yang gak tau **Node** itu apa ya simpelnya gini kita itu ikut berpartisipasi di jaringan _Blockchain_ mereka dengan berkontribusi jadi _validator_, Tugasnya si _validator_ itu mengamankan setiap block transaksi di _blockchain_nya tersebut biar gak ada yang nge_hack,_ nge_scam,_ atau apalah yang illegal pokoknya(jangan main illegalan ya dosa). Oh ya sedikit sharing aja biasanya airdrop node tuh kalau pas _landing_(kamus bahasa airdropper wkwk) bisa dapet puluhan bahkan ratusan juta(tapi ini gak semuanya ya) contohnya dulu gw cair $2k pas ikut testnet nodenya Forta Network di bulan Juni terus juga Aptos yang rame banget dulu dikalangan airdropper itu juga gw ikut nodenya cair $3k bahkan yang garap cuman _claim NFT_nya juga dapet.
 
