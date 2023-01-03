@@ -1,6 +1,6 @@
 ---
 title: 'Cara Garap & Mining Testnet Gaga Node'
-date: Tue, 03 Jan 2023 19:40:34 +0000
+date: 2023-01-03
 draft: false
 tags: ['Gaga Node', 'Testnet Guides', 'Uncategorized']
 cover:
