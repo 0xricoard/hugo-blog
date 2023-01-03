@@ -68,7 +68,7 @@ Pastiin statusnya running kayak gini
 
 nah ini yang paling penting kalau nodenya udah running biar nodemu dapat reward Gaga Creditnya lu harus set token dulu, Untuk liat tokenmu bisa di menu Install & Run di paling atas ada tokenmu seperti di ss ini
 
-![](img/installrun.png)
+![](https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/installrun.png)
 
 Copy tokennya ya terus paste command ini
 
