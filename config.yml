@@ -1,6 +1,6 @@
 baseURL: "https://blog.muhammadri.co"
 title: Rico Ardiansyah's Blog
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
