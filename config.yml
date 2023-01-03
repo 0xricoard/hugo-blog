@@ -25,7 +25,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Rico Ardiansyah
   # author: ["Me", "You"] # multiple authors
-  images: "/img"]
+  images: "/static/img"]
   DateFormat: "2 January 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
