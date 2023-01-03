@@ -4,7 +4,7 @@ date: 2023-01-03
 draft: false
 tags: ['Gaga Node', 'Testnet Guides', 'Uncategorized']
 images: 
-    - https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/0B1AA8E8-F9FE-45F7-BD90-604F8C557C65.jpeg
+    - "https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/0B1AA8E8-F9FE-45F7-BD90-604F8C557C65.jpeg"
 cover:
     image: "https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/0B1AA8E8-F9FE-45F7-BD90-604F8C557C65.jpeg"
 ---
