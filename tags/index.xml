@@ -9,22 +9,40 @@
       <link>https://blog.muhammadri.co/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.muhammadri.co/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.muhammadri.co/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tutorial Wordpress</title>
-      <link>https://blog.muhammadri.co/tags/tutorial-wordpress/</link>
-      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <title>Gaga Node</title>
+      <link>https://blog.muhammadri.co/tags/gaga-node/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.muhammadri.co/tags/tutorial-wordpress/</guid>
+      <guid>https://blog.muhammadri.co/tags/gaga-node/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testnet Guides</title>
       <link>https://blog.muhammadri.co/tags/testnet-guides/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://blog.muhammadri.co/tags/testnet-guides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncategorized</title>
+      <link>https://blog.muhammadri.co/tags/uncategorized/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muhammadri.co/tags/uncategorized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial Wordpress</title>
+      <link>https://blog.muhammadri.co/tags/tutorial-wordpress/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.muhammadri.co/tags/tutorial-wordpress/</guid>
       <description></description>
     </item>
     
