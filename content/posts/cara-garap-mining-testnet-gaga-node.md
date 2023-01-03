@@ -21,7 +21,7 @@ Gaga Node ini bisa dijalanin di Windows, Linux, Mac, dan Android
 
 ## Linux
 
-Gw rekomendasiin pake distro Ubuntu/Debian
+Gw rekomendasiin pake distro Ubuntu/Debian kalau buat spek minimum ram 1gb sama bandwidth kalau bisa minim 100mbps soalnya gaga node ini kalau speed bandwidthmu gede bisa nambah reward Gaga Creditnya
 
 ### 1.Pastikan izin sudo dapat digunakan
 
