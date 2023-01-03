@@ -19,7 +19,6 @@ outputs:
           - RSS
           - JSON # is necessary
 params:
-  comments: true
   disqusShortname: blog-rico
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Rico Ardiansyah's Blog
@@ -42,7 +41,7 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: true
