@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Rico Ardiansyah&#39;s Blog</title>
-    <link>http://blog.muhammadri.co/posts/</link>
+    <link>https://blog.muhammadri.co/posts/</link>
     <description>Recent content in Posts on Rico Ardiansyah&#39;s Blog</description>
     <image>
-      <url>http://blog.muhammadri.co/47</url>
-      <link>http://blog.muhammadri.co/47</link>
+      <url>https://blog.muhammadri.co/47</url>
+      <link>https://blog.muhammadri.co/47</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://blog.muhammadri.co/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.muhammadri.co/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cara Garap &amp; Mining Testnet Gaga Node</title>
-      <link>http://blog.muhammadri.co/posts/cara-garap-mining-testnet-gaga-node/</link>
+      <link>https://blog.muhammadri.co/posts/cara-garap-mining-testnet-gaga-node/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.muhammadri.co/posts/cara-garap-mining-testnet-gaga-node/</guid>
+      <guid>https://blog.muhammadri.co/posts/cara-garap-mining-testnet-gaga-node/</guid>
       <description>Testnet Node sekarang lagi rame banget. Buat yang gak tau Node itu apa ya simpelnya gini kita itu ikut berpartisipasi di jaringan Blockchain mereka dengan berkontribusi jadi validator, Tugasnya si validator itu mengamankan setiap block transaksi di blockchain_nya tersebut biar gak ada yang nge_hack, nge_scam,_ atau apalah yang illegal pokoknya(jangan main illegalan ya dosa). Oh ya sedikit sharing aja biasanya airdrop node tuh kalau pas landing(kamus bahasa airdropper wkwk) bisa dapet puluhan bahkan ratusan juta(tapi ini gak semuanya ya) contohnya dulu gw cair $2k pas ikut testnet nodenya Forta Network di bulan Juni terus juga Aptos yang rame banget dulu dikalangan airdropper itu juga gw ikut nodenya cair $3k bahkan yang garap cuman _claim NFT_nya juga dapet.</description>
     </item>
     
     <item>
       <title>Cara ekspor postingan di Wordpress</title>
-      <link>http://blog.muhammadri.co/posts/cara-ekspor-postingan-di-wordpress/</link>
+      <link>https://blog.muhammadri.co/posts/cara-ekspor-postingan-di-wordpress/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.muhammadri.co/posts/cara-ekspor-postingan-di-wordpress/</guid>
+      <guid>https://blog.muhammadri.co/posts/cara-ekspor-postingan-di-wordpress/</guid>
       <description>WordPress adalah sistem pengelolaan konten (Content Management System - CMS) yang bersifat open source dan dapat digunakan untuk membuat situs web dan blog. WordPress menyediakan seperangkat alat dan fitur yang memudahkan pengguna untuk membuat dan mengelola konten situs web mereka, seperti posting blog, halaman, media, dan lainnya. WordPress juga memiliki banyak tema dan plugin yang tersedia, yang memungkinkan pengguna untuk mempercantik dan menambah fitur ke situs web mereka dengan mudah.</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>http://blog.muhammadri.co/posts/about/</link>
+      <link>https://blog.muhammadri.co/posts/about/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.muhammadri.co/posts/about/</guid>
+      <guid>https://blog.muhammadri.co/posts/about/</guid>
       <description>So do you want know about me huh? I&amp;rsquo;m just a lonely guy. Send Me a anonymous message if you want to ask me https://secreto.site/id/apt4b6</description>
     </item>
     
     <item>
       <title>MUN Testnet Node Tutorial</title>
-      <link>http://blog.muhammadri.co/posts/mun-testnet-node-tutorial/</link>
+      <link>https://blog.muhammadri.co/posts/mun-testnet-node-tutorial/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.muhammadri.co/posts/mun-testnet-node-tutorial/</guid>
+      <guid>https://blog.muhammadri.co/posts/mun-testnet-node-tutorial/</guid>
       <description>How to join MUN Blockchain Infrastructure **Recommended configuration:** - Number of CPUs: 4 - Memory: 16GB - OS: Ubuntu 22.04 LTS - Allow all incoming connections from TCP port 26656 and 26657 - Static IP address - Min. 500 GB HD (SSD) Installing prerequisites sudo apt update sudo apt upgrade -y sudo apt install build-essential jq -y Install Golang: Install latest go version https://golang.org/doc/install wget -q -O - https://raw.githubusercontent.com/canha/golang-tools-install-script/master/goinstall.sh | bash -s -- --version 1.</description>
     </item>
     
     <item>
       <title>Script Bot Komen Facebook Dan Cara Pemasanganya</title>
-      <link>http://blog.muhammadri.co/posts/script-bot-komen-facebook-dan-cara-pemasanganya/</link>
+      <link>https://blog.muhammadri.co/posts/script-bot-komen-facebook-dan-cara-pemasanganya/</link>
       <pubDate>Sat, 31 Dec 2022 05:52:00 -0700</pubDate>
       
-      <guid>http://blog.muhammadri.co/posts/script-bot-komen-facebook-dan-cara-pemasanganya/</guid>
+      <guid>https://blog.muhammadri.co/posts/script-bot-komen-facebook-dan-cara-pemasanganya/</guid>
       <description>Hallo, Kali ini gua akan share Cara Membuat Bot Komen Facebook menggunakan script PHP berikut caranya:
 Langkah-langkah installasi: 1.Login Ke cPanel anda, Masuk ke dir filemanager &amp;gt; public_html
 2.Download Bot Komen Facebooknya : Download Sc Bot
@@ -62,20 +62,20 @@ Langkah-langkah installasi: 1.Login Ke cPanel anda, Masuk ke dir filemanager &am
     
     <item>
       <title>My First Post</title>
-      <link>http://blog.muhammadri.co/posts/helloworld/</link>
+      <link>https://blog.muhammadri.co/posts/helloworld/</link>
       <pubDate>Sun, 20 Nov 2022 09:03:20 -0800</pubDate>
       
-      <guid>http://blog.muhammadri.co/posts/helloworld/</guid>
+      <guid>https://blog.muhammadri.co/posts/helloworld/</guid>
       <description>Introduction This is bold text, and this is emphasized text.
 Visit the Hugo website!</description>
     </item>
     
     <item>
       <title>MUN Nodes State-Sync</title>
-      <link>http://blog.muhammadri.co/posts/mun-nodes-state-sync/</link>
+      <link>https://blog.muhammadri.co/posts/mun-nodes-state-sync/</link>
       <pubDate>Sun, 09 Oct 2022 21:44:48 +0000</pubDate>
       
-      <guid>http://blog.muhammadri.co/posts/mun-nodes-state-sync/</guid>
+      <guid>https://blog.muhammadri.co/posts/mun-nodes-state-sync/</guid>
       <description>For chain id testmun For a tutorial on how to install MUN node click here.
 Set RPC to BimaSakti RPC=&amp;#34;http://bimasaktimunrpc.westeurope.cloudapp.azure.com:26657&amp;#34; set variables $LATEST_HEIGHT $BLOCK_HEIGHT $TRUST_HASH LATEST_HEIGHT=$(curl -s $RPC/block | jq -r .result.block.header.height); \ BLOCK_HEIGHT=$((LATEST_HEIGHT - 2000)); \ TRUST_HASH=$(curl -s &amp;#34;$RPC/block?height=$BLOCK_HEIGHT&amp;#34; | jq -r .result.block_id.hash) Configure persisten peers peers=&amp;#34;e1733d60e1bbbee3241f62c10257555efb8398a5@bimasaktimunrpc.westeurope.cloudapp.azure.com:26656&amp;#34; sed -i.bak -e &amp;#34;s/^persistent_peers *=.*/persistent_peers = \&amp;#34;$peers\&amp;#34;/&amp;#34; $HOME/.mun/config/config.toml Then copy this command sed -i.bak -E &amp;#34;s|^(enable[[:space:]]+=[[:space:]]+).*$|\1true| ; \ s|^(rpc_servers[[:space:]]+=[[:space:]]+).*$|\1\&amp;#34;$RPC,$RPC\&amp;#34;| ; \ s|^(trust_height[[:space:]]+=[[:space:]]+).</description>
     </item>
