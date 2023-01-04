@@ -11,13 +11,13 @@ cover:
 
 ![](https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/0B1AA8E8-F9FE-45F7-BD90-604F8C557C65.jpeg)
 
-Testnet Node sekarang lagi rame banget. Buat yang gak tau **Node** itu apa ya simpelnya gini kita itu ikut berpartisipasi di jaringan _Blockchain_ mereka dengan berkontribusi jadi _validator_, Tugasnya si _validator_ itu mengamankan setiap block transaksi di _blockchain_nya tersebut biar gak ada yang nge_hack,_ nge_scam,_ atau apalah yang illegal pokoknya(jangan main illegalan ya dosa). Oh ya sedikit sharing aja biasanya airdrop node tuh kalau pas _landing_(kamus bahasa airdropper wkwk) bisa dapet puluhan bahkan ratusan juta(tapi ini gak semuanya ya) contohnya dulu gw cair $2k pas ikut testnet nodenya Forta Network di bulan Juni terus juga Aptos yang rame banget dulu dikalangan airdropper itu juga gw ikut nodenya cair $3k bahkan yang garap cuman _claim NFT_nya juga dapet.
+Testnet Node sekarang lagi rame banget. Buat yang gak tau **Node** itu apa ya simpelnya gini kita itu ikut berpartisipasi di jaringan _Blockchain_ mereka dengan berkontribusi jadi _validator_, Tugasnya si _validator_ itu mengamankan setiap block transaksi di *blockchain*nya tersebut biar gak ada yang ngehack,_ nge*scam*, atau apalah yang illegal pokoknya(jangan main illegalan ya dosa). Oh ya sedikit sharing aja biasanya airdrop node tuh kalau pas _landing_(kamus bahasa airdropper wkwk) bisa dapet puluhan bahkan ratusan juta(tapi ini gak semuanya ya) contohnya dulu gw cair $2k pas ikut testnet nodenya Forta Network di bulan Juni terus juga Aptos yang rame banget dulu dikalangan airdropper itu juga gw ikut nodenya cair $3k bahkan yang garap cuman *claim NFTnya juga dapet.
 
-Nah kali ini gua akan share cara garap testnet nodenya project Gaga Node. Gak tau Gaga Node?, **Gaga Node** adalah pasar tempat tinggal terdesentralisasi berikutnya untuk IP + Bandwidth, bertujuan untuk mengurangi kekurangan alamat IPv4 secara global dengan teknologi Web3.0. Saat postingan ini dibuat project Gaga Node ini lagi ngadain testnetnya yaitu dengan mining tokennya ntar dapat Gaga credit gitu, kalau belum daftar bisa daftar [disini](https://dashboard.gaganode.com/register?referral_code=ikkmmyouxz).Oke langsung aja nih gw jabarin caranya.
+Nah kali ini gua akan share cara garap testnet nodenya project Gaga Node. Gak tau Gaga Node?, **Gaga Node** adalah pasar tempat tinggal terdesentralisasi berikutnya untuk IP + Bandwidth, bertujuan untuk mengurangi kekurangan alamat IPv4 secara global dengan teknologi Web3.0. Saat postingan ini dibuat project Gaga Node ini lagi ngadain testnetnya yaitu dengan mining tokennya ntar dapat Gaga credit gitu. Oke langsung aja nih gw jabarin caranya.
 
 ## Cara Mining Gaga Node
 
-Gaga Node ini bisa dijalanin di Windows, Linux, Mac, dan Android
+Gaga Node ini bisa dijalanin di Windows, Linux, Mac, dan Android. Login dulu ke web gaga nodenya di https://dashboard.gaganode.com, Kalau belum daftar bisa daftar [disini](https://dashboard.gaganode.com/register?referral_code=ikkmmyouxz) 
 
 ## Linux
 
