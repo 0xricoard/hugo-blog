@@ -1,35 +1,22 @@
 [build]
-publish = "public"
-command = "hugo --gc --minify"
+  command = "hugo"
+  publish = "public"
 
-[context.production.environment]
-HUGO_VERSION = "0.109.0"
-HUGO_ENV = "production"
-HUGO_ENABLEGITINFO = "true"
+[dev]
+  command = "hugo serve"
+  targetPort = 1313
+  port = 8888
+  publish = "public"
+  autoLaunch = false
 
-[context.split1]
-command = "hugo --gc --minify --enableGitInfo"
+[build.environment]
+  HUGO_VERSION = "0.109.0"
 
-[context.split1.environment]
-HUGO_VERSION = "0.109.0"
-HUGO_ENV = "production"
+[[edge_functions]]
+path = "/*"
+function = "root"
 
-[context.deploy-preview]
-command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
-[context.deploy-preview.environment]
-HUGO_VERSION = "0.109.0"
-
-[context.branch-deploy]
-command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
-
-[context.branch-deploy.environment]
-HUGO_VERSION = "0.109.0"
-
-[context.next.environment]
-HUGO_ENABLEGITINFO = "true"
-
-[[redirects]]
-from = "/npmjs/*"
-to = "/npmjs/"
-status = 200
+[[edge_functions]]
+function = "webfinger"
+path = "/.well-known/webfinger"
