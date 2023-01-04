@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tutorial Wordpress on Rico Ardiansyah&#39;s Blog</title>
-    <link>https://blog.muhammadri.co/tags/tutorial-wordpress/</link>
+    <link>//blog.muhammadri.co/tags/tutorial-wordpress/</link>
     <description>Recent content in Tutorial Wordpress on Rico Ardiansyah&#39;s Blog</description>
     <image>
-      <url>https://blog.muhammadri.co/47</url>
-      <link>https://blog.muhammadri.co/47</link>
+      <url>//blog.muhammadri.co/47</url>
+      <link>//blog.muhammadri.co/47</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.muhammadri.co/tags/tutorial-wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="//blog.muhammadri.co/tags/tutorial-wordpress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cara ekspor postingan di Wordpress</title>
-      <link>https://blog.muhammadri.co/posts/cara-ekspor-postingan-di-wordpress/</link>
+      <link>//blog.muhammadri.co/posts/cara-ekspor-postingan-di-wordpress/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.muhammadri.co/posts/cara-ekspor-postingan-di-wordpress/</guid>
+      <guid>//blog.muhammadri.co/posts/cara-ekspor-postingan-di-wordpress/</guid>
       <description>WordPress adalah sistem pengelolaan konten (Content Management System - CMS) yang bersifat open source dan dapat digunakan untuk membuat situs web dan blog. WordPress menyediakan seperangkat alat dan fitur yang memudahkan pengguna untuk membuat dan mengelola konten situs web mereka, seperti posting blog, halaman, media, dan lainnya. WordPress juga memiliki banyak tema dan plugin yang tersedia, yang memungkinkan pengguna untuk mempercantik dan menambah fitur ke situs web mereka dengan mudah.</description>
     </item>
     
