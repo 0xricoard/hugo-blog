@@ -1,4 +1,4 @@
-baseURL: "https://blog.muhammadri.co"
+baseURL: "//blog.muhammadri.co"
 title: Rico Ardiansyah's Blog
 paginate: 10
 theme: PaperMod
