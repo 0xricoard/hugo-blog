@@ -93,7 +93,7 @@ Terus cek status nodenya _error_ apa kagak pake command di no 4 _./app status_ k
 
 Buat ngecek node lu udah sukses mining apa belum bisa dicek di menu **Nodes**
 
-![](https://guides.bimasaktivalidator.my.id/wp-content/uploads/2023/01/image-5-1024x205.png)
+![](https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/E903155C-1E1A-4CE3-90B3-93A9F7FBFE8A.png)
 
 Disitu keliatan semua nodemu yang lagi aktif mining.
 
