@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Rico Ardiansyah&#39;s Blog</title>
-    <link>https://blog.muhammadri.co/tags/</link>
+    <link>https://muhammadri.co/tags/</link>
     <description>Recent content in Tags on Rico Ardiansyah&#39;s Blog</description>
     <image>
-      <url>https://blog.muhammadri.co/47</url>
-      <link>https://blog.muhammadri.co/47</link>
+      <url>https://muhammadri.co/47</url>
+      <link>https://muhammadri.co/47</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.muhammadri.co/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://muhammadri.co/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gaga Node</title>
-      <link>https://blog.muhammadri.co/tags/gaga-node/</link>
+      <link>https://muhammadri.co/tags/gaga-node/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.muhammadri.co/tags/gaga-node/</guid>
+      <guid>https://muhammadri.co/tags/gaga-node/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testnet Guides</title>
-      <link>https://blog.muhammadri.co/tags/testnet-guides/</link>
+      <link>https://muhammadri.co/tags/testnet-guides/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.muhammadri.co/tags/testnet-guides/</guid>
+      <guid>https://muhammadri.co/tags/testnet-guides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncategorized</title>
-      <link>https://blog.muhammadri.co/tags/uncategorized/</link>
+      <link>https://muhammadri.co/tags/uncategorized/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.muhammadri.co/tags/uncategorized/</guid>
+      <guid>https://muhammadri.co/tags/uncategorized/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorial Wordpress</title>
-      <link>https://blog.muhammadri.co/tags/tutorial-wordpress/</link>
+      <link>https://muhammadri.co/tags/tutorial-wordpress/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.muhammadri.co/tags/tutorial-wordpress/</guid>
+      <guid>https://muhammadri.co/tags/tutorial-wordpress/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bot</title>
-      <link>https://blog.muhammadri.co/tags/bot/</link>
+      <link>https://muhammadri.co/tags/bot/</link>
       <pubDate>Sat, 31 Dec 2022 05:52:00 -0700</pubDate>
       
-      <guid>https://blog.muhammadri.co/tags/bot/</guid>
+      <guid>https://muhammadri.co/tags/bot/</guid>
       <description></description>
     </item>
     
