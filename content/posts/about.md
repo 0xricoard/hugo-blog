@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 date: 2023-01-01
+offTheRecord: true
 draft: false
 hide: true
 hidden: true
