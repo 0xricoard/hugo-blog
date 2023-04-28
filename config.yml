@@ -79,7 +79,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Blog static cuman buat dokumentasi biar gak lupa hehe kadang juga suka nulis random
+    Content: Blog static cuman buat dokumentasi dan sharing-sharing biar gak lupa hehe kadang juga suka nulis random
 
   socialIcons:
     - name: twitter
