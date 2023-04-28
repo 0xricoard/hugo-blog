@@ -2,6 +2,7 @@
 title: "About Me"
 date: 2023-01-01
 draft: false
+hide: true
 cover:
     image: "./img/6883161A-0B31-471D-BC5D-1AD89A56FA7A.png"
 relative: true
