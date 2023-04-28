@@ -8,6 +8,16 @@
       <url>https://muhammadri.co/47</url>
       <link>https://muhammadri.co/47</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://muhammadri.co/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://muhammadri.co/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cryptocurrency</title>
+      <link>https://muhammadri.co/categories/cryptocurrency/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadri.co/categories/cryptocurrency/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
