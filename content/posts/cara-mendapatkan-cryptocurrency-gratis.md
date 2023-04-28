@@ -5,7 +5,7 @@ draft: false
 cover:
     image: "https://i.ibb.co/0sXntcc/IMG-5945.jpg"
 ---
-# Cara Mendapatkan Cryptocurrency Gratis
+# Apa itu Cryptocurrency
 
 Cryptocurrency adalah aset digital yang semakin populer dan banyak digunakan di seluruh dunia. Ada berbagai cara untuk memperoleh cryptocurrency, tetapi kebanyakan memerlukan uang sungguhan. Namun, ada beberapa cara untuk mendapatkan cryptocurrency secara gratis. Berikut adalah beberapa cara yang dapat dilakukan:
 
