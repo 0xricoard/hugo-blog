@@ -4,10 +4,10 @@ date: Sun, 09 Oct 2022 21:44:48 +0000
 draft: false
 tags: ['Testnet Guides']
 cover:
-    image: "https://guides.bimasaktivalidator.my.id/wp-content/uploads/2022/10/28F9B0FA-FB84-4B23-A837-F7CAFB78095D-1024x341.jpeg"
+    image: "https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/IMG_5946.jpeg"
 ---
 
-![](https://guides.bimasaktivalidator.my.id/wp-content/uploads/2022/10/28F9B0FA-FB84-4B23-A837-F7CAFB78095D-1024x341.jpeg)
+![](https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/IMG_5946.jpeg)
 
 ## For chain id testmun
 For a tutorial on how to install MUN node [click here](https://github.com/elangrr/testnet_guide/tree/main/mun).
