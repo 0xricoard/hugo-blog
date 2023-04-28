@@ -11,6 +11,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://muhammadri.co/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Apa itu OpenWRT dan Fitur-Fitur Utamanya</title>
+      <link>https://muhammadri.co/posts/apa-itu-openwrt-dan-fitur-fiturnya/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadri.co/posts/apa-itu-openwrt-dan-fitur-fiturnya/</guid>
+      <description>Apa Itu OpenWRT OpenWRT adalah sistem operasi sumber terbuka yang dirancang untuk digunakan pada router nirkabel dan perangkat jaringan kecil lainnya. OpenWRT merupakan salah satu proyek open source yang terus berkembang dan memiliki komunitas besar yang aktif dalam pengembangan dan pemeliharaan perangkat lunak.
+OpenWRT memungkinkan pengguna untuk mengkonfigurasi dan menyesuaikan router mereka sesuai dengan kebutuhan mereka. Sistem ini memiliki fitur yang kuat dan serbaguna, sehingga dapat digunakan untuk mengontrol jaringan dan memaksimalkan kinerja perangkat.</description>
+    </item>
+    
+    <item>
       <title>Perbandingan Apache vs Nginx: Pilih yang mana?</title>
       <link>https://muhammadri.co/posts/apache-vs-nginx/</link>
       <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>

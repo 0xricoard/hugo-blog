@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Networking on Rico Ardiansyah&#39;s Blog</title>
+    <link>https://muhammadri.co/categories/networking/</link>
+    <description>Recent content in Networking on Rico Ardiansyah&#39;s Blog</description>
+    <image>
+      <url>https://muhammadri.co/47</url>
+      <link>https://muhammadri.co/47</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://muhammadri.co/categories/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apa itu OpenWRT dan Fitur-Fitur Utamanya</title>
+      <link>https://muhammadri.co/posts/apa-itu-openwrt-dan-fitur-fiturnya/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadri.co/posts/apa-itu-openwrt-dan-fitur-fiturnya/</guid>
+      <description>Apa Itu OpenWRT OpenWRT adalah sistem operasi sumber terbuka yang dirancang untuk digunakan pada router nirkabel dan perangkat jaringan kecil lainnya. OpenWRT merupakan salah satu proyek open source yang terus berkembang dan memiliki komunitas besar yang aktif dalam pengembangan dan pemeliharaan perangkat lunak.
+OpenWRT memungkinkan pengguna untuk mengkonfigurasi dan menyesuaikan router mereka sesuai dengan kebutuhan mereka. Sistem ini memiliki fitur yang kuat dan serbaguna, sehingga dapat digunakan untuk mengontrol jaringan dan memaksimalkan kinerja perangkat.</description>
+    </item>
+    
+  </channel>
+</rss>
