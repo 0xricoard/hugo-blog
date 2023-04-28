@@ -2,6 +2,7 @@
 title: 'Cara Mendapatkan Cryptocurrency Gratis'
 date: 2023-04-27
 draft: false
+author: ["Rico Ardiansyah", "ChatGPT"]
 cover:
     image: "https://i.ibb.co/0sXntcc/IMG-5945.jpg"
 ---
