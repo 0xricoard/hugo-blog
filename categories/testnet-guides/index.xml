@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Testnet Guides on Rico Ardiansyah&#39;s Blog</title>
+    <link>https://muhammadri.co/categories/testnet-guides/</link>
+    <description>Recent content in Testnet Guides on Rico Ardiansyah&#39;s Blog</description>
+    <image>
+      <url>https://muhammadri.co/47</url>
+      <link>https://muhammadri.co/47</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://muhammadri.co/categories/testnet-guides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Garap &amp; Mining Testnet Gaga Node</title>
+      <link>https://muhammadri.co/posts/cara-garap-mining-testnet-gaga-node/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadri.co/posts/cara-garap-mining-testnet-gaga-node/</guid>
+      <description>Testnet Node sekarang lagi rame banget. Buat yang gak tau Node itu apa ya simpelnya gini kita itu ikut berpartisipasi di jaringan Blockchain mereka dengan berkontribusi jadi validator, Tugasnya si validator itu mengamankan setiap block transaksi di blockchainnya tersebut biar gak ada yang ngehack,_ ngescam, atau apalah yang illegal pokoknya(jangan main illegalan ya dosa). Oh ya sedikit sharing aja biasanya airdrop node tuh kalau pas landing(kamus bahasa airdropper wkwk) bisa dapet puluhan bahkan ratusan juta(tapi ini gak semuanya ya) contohnya dulu gw cair $2k pas ikut testnet nodenya Forta Network di bulan Juni terus juga Aptos yang rame banget dulu dikalangan airdropper itu juga gw ikut nodenya cair $3k bahkan yang garap cuman *claim NFTnya juga dapet.</description>
+    </item>
+    
+  </channel>
+</rss>
