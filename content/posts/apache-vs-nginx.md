@@ -10,7 +10,6 @@ categories:
 cover:
     image: "https://www.nginx.com/wp-content/uploads/2015/10/nginx-vs-apache_featured.png"
 ---
-# Apache vs Nginx: Mana yang Lebih Baik?
 ![Apache vs Nginx](https://www.nginx.com/wp-content/uploads/2015/10/nginx-vs-apache_featured.png)
 Apache dan Nginx adalah dua server web open-source yang populer digunakan di seluruh dunia. Kedua server web ini memiliki kelebihan dan kekurangan masing-masing, dan memilih yang terbaik tergantung pada kebutuhan dan preferensi Anda. Mari kita lihat lebih detail perbandingan Apache vs Nginx.
 
