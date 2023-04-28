@@ -6,6 +6,7 @@ author: ["Rico Ardiansyah"]
 categories:
 - Control Panel
 - Server
+- Hosting
 - Web
 cover:
     image: "https://rackset.com/wp-content/uploads/2022/09/cpanel-vs-direct-admin-best-control-panel-for-vps.jpg"
