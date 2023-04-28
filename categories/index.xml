@@ -9,7 +9,34 @@
       <link>https://muhammadri.co/47</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://muhammadri.co/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://muhammadri.co/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache</title>
+      <link>https://muhammadri.co/categories/apache/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadri.co/categories/apache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nginx</title>
+      <link>https://muhammadri.co/categories/nginx/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadri.co/categories/nginx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Server</title>
+      <link>https://muhammadri.co/categories/web-server/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadri.co/categories/web-server/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Cryptocurrency</title>
       <link>https://muhammadri.co/categories/cryptocurrency/</link>
