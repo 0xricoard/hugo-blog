@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DD-WRT on Rico Ardiansyah&#39;s Blog</title>
+    <link>https://muhammadri.co/categories/dd-wrt/</link>
+    <description>Recent content in DD-WRT on Rico Ardiansyah&#39;s Blog</description>
+    <image>
+      <url>https://muhammadri.co/47</url>
+      <link>https://muhammadri.co/47</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://muhammadri.co/categories/dd-wrt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apa itu DD-WRT dan Fitur-Fitur Utamanya</title>
+      <link>https://muhammadri.co/posts/apa-itu-dd-wrt-dan-fitur-fiturnya/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadri.co/posts/apa-itu-dd-wrt-dan-fitur-fiturnya/</guid>
+      <description>Pengertian DD-WRT DD-WRT adalah sistem operasi sumber terbuka yang dirancang untuk digunakan pada router nirkabel dan perangkat jaringan kecil lainnya. DD-WRT adalah alternatif yang populer untuk firmware bawaan router dan memberikan banyak fitur tambahan dan kustomisasi yang tidak tersedia di firmware bawaan.
+Sistem ini memiliki fitur yang kuat dan serbaguna, sehingga dapat digunakan untuk mengontrol jaringan dan memaksimalkan kinerja perangkat.
+Fitur-Fitur Utama DD-WRT Berikut ini adalah beberapa fitur utama yang dimiliki DD-WRT:</description>
+    </item>
+    
+  </channel>
+</rss>
