@@ -130,7 +130,7 @@ menu:
       url: /categories/
       weight: 30
     - identifier: contact
-      name: Contact Me
+      name: Contact
       url: mailto:rikohacker007@gmail.com
       weight: 40
     - identifier: About
