@@ -1,5 +1,5 @@
 ---
-title: 'Apache vs Nginx: Pilih yang mana?'
+title: 'Perbandingan Apache vs Nginx: Pilih yang mana?'
 date: 2023-04-28
 draft: false
 author: ["Rico Ardiansyah", "ChatGPT"]
