@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Web on Rico Ardiansyah&#39;s Blog</title>
+    <link>https://muhammadri.co/categories/web/</link>
+    <description>Recent content in Web on Rico Ardiansyah&#39;s Blog</description>
+    <image>
+      <url>https://muhammadri.co/47</url>
+      <link>https://muhammadri.co/47</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://muhammadri.co/categories/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cPanel vs DirectAdmin: Manakah yang Lebih Baik?</title>
+      <link>https://muhammadri.co/posts/cpanel-vs-directadmin/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadri.co/posts/cpanel-vs-directadmin/</guid>
+      <description>Ketika memilih panel kontrol untuk hosting web, dua pilihan yang sering dibandingkan adalah cPanel dan DirectAdmin. Keduanya memiliki fitur yang serupa, tetapi memiliki perbedaan dalam hal fungsionalitas, keamanan, kegunaan, dan harga. Dalam artikel ini, kita akan membahas perbedaan-perbedaan tersebut, sehingga Anda dapat memilih panel kontrol yang tepat untuk kebutuhan hosting web Anda.
+Apa itu cPanel? cPanel adalah panel kontrol hosting web yang paling populer di dunia. Diluncurkan pada tahun 1996, cPanel menyediakan antarmuka pengguna yang intuitif dan mudah digunakan, serta fitur yang lengkap dan dapat disesuaikan.</description>
+    </item>
+    
+  </channel>
+</rss>
