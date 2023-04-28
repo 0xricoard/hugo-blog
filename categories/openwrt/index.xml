@@ -20,5 +20,15 @@
 OpenWRT memungkinkan pengguna untuk mengkonfigurasi dan menyesuaikan router mereka sesuai dengan kebutuhan mereka. Sistem ini memiliki fitur yang kuat dan serbaguna, sehingga dapat digunakan untuk mengontrol jaringan dan memaksimalkan kinerja perangkat.</description>
     </item>
     
+    <item>
+      <title>OpenWRT vs DD-WRT, Manakah yang lebih Bagus?</title>
+      <link>https://muhammadri.co/posts/openwrt-vs-dd-wrt/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://muhammadri.co/posts/openwrt-vs-dd-wrt/</guid>
+      <description>Pengertian OpenWRT dan DD-WRT OpenWRT dan DD-WRT merupakan sistem operasi router yang dirancang khusus untuk menggantikan firmware bawaan pada router. Firmware bawaan pada router biasanya memiliki fitur-fitur yang terbatas dan tidak dapat disesuaikan sesuai kebutuhan pengguna. Dengan mengganti firmware bawaan dengan OpenWRT atau DD-WRT, pengguna dapat memperluas fitur router dan mengoptimalkan kinerjanya.
+Pengertian OpenWRT OpenWRT adalah sistem operasi sumber terbuka (open-source) berbasis Linux yang dirancang khusus untuk router. OpenWRT dapat diinstal pada berbagai jenis router yang mendukung arsitektur MIPS, ARM, dan x86.</description>
+    </item>
+    
   </channel>
 </rss>
