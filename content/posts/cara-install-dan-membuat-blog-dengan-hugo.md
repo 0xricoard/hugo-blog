@@ -1,6 +1,6 @@
 ---
 title: 'Cara Install dan Membuat Blog dengan Hugo'
-date: 2023-05-01
+date: 2023-04-30
 draft: false
 author: ["Rico Ardiansyah"]
 categories:
