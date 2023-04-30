@@ -6,7 +6,7 @@ author: ["Rico Ardiansyah"]
 categories:
 - Blockchain
 - Node
-- Crypto
+- Cryptocurrency
 cover:
     image: "https://i.ibb.co/mHz1MBd/IMG-5973.jpg"
 ---
