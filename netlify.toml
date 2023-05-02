@@ -33,3 +33,8 @@ HUGO_ENABLEGITINFO = "true"
 from = "/npmjs/*"
 to = "/npmjs/"
 status = 200
+
+[[redirects]]
+from = "/arc-sw.js"
+to = "https://arc.io/arc-sw.js"
+status = 200
