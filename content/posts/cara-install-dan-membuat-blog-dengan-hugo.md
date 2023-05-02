@@ -44,4 +44,4 @@ Setelah Hugo telah terinstal di Ubuntu, berikut adalah cara untuk membuat blog d
 9. Setelah situs Anda siap untuk dipublikasikan, Anda dapat melakukan generate situs dengan perintah `hugo`. Halaman situs Anda akan di-generate ke folder `public`. Anda dapat memindahkan isi folder `public` ke server web Anda untuk mempublikasikan situs Anda.
 
 ## Kesimpulan
-Itulah panduan instalasi dan pembuatan blog dengan Hugo di Ubuntu menggunakan format markdown. Dengan mengikuti langkah-langkah ini, Anda akan dapat membuat situs web statis menggunakan Hugo dengan mudah dan cepat. Selamat mencoba!
+Itulah panduan instalasi dan pembuatan blog dengan Hugo di Ubuntu. Dengan mengikuti langkah-langkah ini, Anda akan dapat membuat situs web statis menggunakan Hugo dengan mudah dan cepat. Selamat mencoba!
