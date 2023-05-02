@@ -9,7 +9,15 @@ categories:
 cover:
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_of_Hugo_the_static_website_generator.svg/640px-Logo_of_Hugo_the_static_website_generator.svg.png"
 ---
+# Apa itu Hugo?
 ![Hugo Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_of_Hugo_the_static_website_generator.svg/640px-Logo_of_Hugo_the_static_website_generator.svg.png)
+Hugo adalah sebuah *static site generator* atau *SSG* yang digunakan untuk membangun situs web dengan cepat dan mudah. SSG adalah sistem yang memungkinkan pengguna untuk membuat situs web yang dapat diakses secara online tanpa memerlukan server yang kompleks dan mahal.
+
+Hugo menggunakan bahasa pemrograman Go dan dapat dijalankan pada berbagai sistem operasi seperti Windows, Mac OS, dan Linux. Keunggulan Hugo adalah kecepatannya dalam melakukan *build* situs web, karena Hugo dapat menghasilkan situs web yang siap untuk dipublikasikan dalam hitungan detik.
+
+Hugo juga menyediakan berbagai fitur yang berguna untuk membangun situs web, seperti pemrosesan gambar, pengelolaan konten, dan dukungan multibahasa. Selain itu, Hugo menyediakan tema dan template yang dapat digunakan untuk menghasilkan situs web dengan tampilan yang menarik dan profesional.
+
+Hugo cocok untuk digunakan oleh pengembang web yang ingin membangun situs web yang cepat, aman, dan mudah dioperasikan. Dengan Hugo, pengguna dapat fokus pada konten dan pengalaman pengguna, tanpa harus khawatir tentang kompleksitas infrastruktur server.
 ## Instalasi Hugo di Ubuntu
 Berikut adalah cara untuk menginstal Hugo di Ubuntu:
 
