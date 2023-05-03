@@ -1,5 +1,5 @@
 ---
-title: 'Cara Garap & Mining Testnet Gaga Node'
+title: 'Cara Garap & Mining Testnet GagaNode'
 date: 2023-01-03
 draft: false
 tags: ['Gaga Node', 'Testnet Guides']
@@ -10,7 +10,6 @@ images:
     - "https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/0B1AA8E8-F9FE-45F7-BD90-604F8C557C65.jpeg"
 cover:
     image: "https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/8A651455-A9A7-4035-A2B3-C8F6D169F070.jpeg"
-    relative: false
 ---
 
 ![](https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/0B1AA8E8-F9FE-45F7-BD90-604F8C557C65.jpeg)
