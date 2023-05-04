@@ -1,5 +1,5 @@
 ---
-title: 'Cara Mendapatkan Cryptocurrency Gratis'
+title: 'Cara Mendapatkan Crypto Gratis'
 date: 2023-04-27
 draft: false
 author: ["Rico Ardiansyah", "ChatGPT"]
