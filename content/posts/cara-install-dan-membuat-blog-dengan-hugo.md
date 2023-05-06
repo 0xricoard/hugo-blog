@@ -39,7 +39,7 @@ Setelah Hugo telah terinstal di Ubuntu, berikut adalah cara untuk membuat blog d
 4. Pilih tema untuk situs Anda dengan mengunjungi situs web HugoThemes. Unduh tema yang Anda inginkan dan ekstrak ke folder `themes` di direktori situs Anda.
 5. Tambahkan tema yang dipilih ke situs Anda dengan menjalankan perintah `echo 'theme = "namatema"' >> config.toml`. Ganti "namatema" dengan nama tema yang Anda pilih.
 6. Buat konten untuk situs Anda dengan membuat direktori `content` di direktori situs Anda dan tambahkan file markdown untuk setiap artikel atau halaman yang Anda inginkan.
-7. Tambahkan menu navigasi ke situs Anda dengan mengedit file `config.toml`. Anda bisa menambahkan tautan ke halaman atau artikel yang telah Anda buat sebelumnya.
+7. Tambahkan menu navigasi ke situs Anda dengan mengedit file `config.toml`. Anda bisa menambahkan tautan ke halaman atau artikel yang telah Anda buat sebelumnya. Silahkan baca dokumentasi pada tema yang anda gunakan karena setiap tema berbeda-beda configurasinya
 8. Jalankan situs Anda dengan menggunakan perintah `hugo server -D`. Halaman situs Anda akan di-generate dan tersedia di `http://localhost:1313/`.
 9. Setelah situs Anda siap untuk dipublikasikan, Anda dapat melakukan generate situs dengan perintah `hugo`. Halaman situs Anda akan di-generate ke folder `public`. Anda dapat memindahkan isi folder `public` ke server web Anda untuk mempublikasikan situs Anda.
 
