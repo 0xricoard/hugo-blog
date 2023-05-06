@@ -84,12 +84,12 @@ params:
   socialIcons:
     - name: twitter
       url: "https://twitter.com/ardiansyah_w404"
-    - name: facebook
-      url: "https://facebook.com/0xricoard"
     - name: github
       url: "https://github.com/0xricoard"
     - name: instagram
       url: "https://instagram.com/0xricoard"
+    - name: linkedin
+      url: "https://id.linkedin.com/in/muhammad-rico-ardiansyah-8049a8244"
 
   analytics:
     google:
