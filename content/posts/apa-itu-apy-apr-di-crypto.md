@@ -1,6 +1,6 @@
 ---
 title: 'APY & APR pada Crypto: Definisi dan Cara Menghitungnya'
-date: 2023-05-8
+date: 2023-05-08
 draft: false
 author: ["Rico Ardiansyah"]
 categories:
