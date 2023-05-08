@@ -1,5 +1,5 @@
 ---
-title: 'Apa itu Node Blockchain? Pengertian serta perannya dalam Blockchain'
+title: 'APY & APR pada Crypto: Definisi dan Cara Menghitungnya'
 date: 2023-05-8
 draft: false
 author: ["Rico Ardiansyah"]
