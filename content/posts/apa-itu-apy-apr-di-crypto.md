@@ -8,7 +8,7 @@ categories:
 cover:
     image: "https://cryptoindonesia.id/wp-content/uploads/2021/09/IMG_20210928_062514.jpg"
 ---
-# APY & APR pada Crypto: Definisi dan Cara Menghitungnya
+# Pengertian APY & APR pada Crypto
 
 ![ilustrasi apy&apr](https://cryptoindonesia.id/wp-content/uploads/2021/09/IMG_20210928_062514.jpg)
 Dalam dunia keuangan, keuntungan dan kerugian investasi seringkali diukur dengan menggunakan persentase. Salah satu cara untuk mengukur keuntungan investasi adalah dengan menggunakan APR (Annual Percentage Rate) atau APY (Annual Percentage Yield). Dalam dunia crypto, APR dan APY juga digunakan untuk menghitung keuntungan dari investasi di protokol keuangan terdesentralisasi seperti DeFi (Decentralized Finance). Dalam artikel ini, kita akan membahas definisi dan cara menghitung APR dan APY dalam konteks crypto.
