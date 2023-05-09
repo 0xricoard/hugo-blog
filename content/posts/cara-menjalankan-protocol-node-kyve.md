@@ -1,6 +1,6 @@
 ---
 title: 'Cara Menjalankan Protocol Node di KYVE Network'
-date: 2023-05-08
+date: 2023-05-09
 draft: false
 author: ["Rico Ardiansyah"]
 categories:
