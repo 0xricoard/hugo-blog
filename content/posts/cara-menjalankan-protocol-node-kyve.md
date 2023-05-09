@@ -62,9 +62,12 @@ Setelah instalasi KYSOR berhasil, sekarang perlu diinisialisasi. Pada kali ini s
 ```
 ./kysor init \
 --chain-id 'kaon-1' \
---autoDownloadBinaries = true \
 --rpc 'https://rpc-eu-1.kaon.kyve.network' \
 --rest 'https://api-eu-1.kaon.kyve.network'
+```
+tambahkan perintah ini untuk otomatis mendownload binari pool kyve terbaru secara otomatis
+```
+echo 'autoDownloadBinaries = true' >> ~/.kysor/config.toml
 ```
 Instalasi kysor akan terletak pada folder .kysor
 ### Membuat Valaccount
