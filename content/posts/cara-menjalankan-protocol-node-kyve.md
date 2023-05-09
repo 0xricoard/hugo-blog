@@ -20,7 +20,7 @@ Spesifikasi minimum untuk menjalankan protocol node adalah:
 - 50mbps network bandwidth
 ### Membuat wallet Arweave
 Buat wallet arweave [disini](https://arweave.app/add) setelah itu simpan keystore anda berbentuk .json itu jangan sampai hilang.
-### Membuat wallet Bundlr
+### Menyiapkan wallet Bundlr
 Bundlr membutuhkan nodejs maka dari itu install dulu nodejsnya dengan perintah:
 ```
 sudo apt-get update
