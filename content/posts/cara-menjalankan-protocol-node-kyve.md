@@ -88,7 +88,7 @@ kemudian start nodenya
 ./kysor start --valaccount 'cosmoshub' --env-file="/root/.env"
 ```
 Setelah node berhasil dimulai, Anda akan melihat log berikut ini:
-``
+```
 2023-02-13 08:46:00.618  INFO  Starting node ...
 
 2023-02-13 08:46:00.624  INFO  Starting metric server on: http://localhost:8080/metrics
@@ -110,7 +110,7 @@ Setelah node berhasil dimulai, Anda akan melihat log berikut ini:
 2023-02-13 08:46:00.876  INFO  Valname:       causal-chocolate-sparrow
 
 2023-02-13 08:46:00.876  INFO  The node will not continue until the account is authorized
-``
+```
 setelah itu buka web kyve di [https://app.kaon.kyve.network/#/validators?status=1](https://app.kaon.kyve.network/#/validators?status=1) konek walletmu dan klik Become a Validator di pojok kanan atas
 silahkan isi data Valaddress dan Valname sesuai log yang muncul di nodemu
 
