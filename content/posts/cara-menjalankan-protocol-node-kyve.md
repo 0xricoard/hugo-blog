@@ -81,7 +81,7 @@ perintah diatas akan membuat file cosmoshub.toml di bawah direktori home KYSOR d
 ## Start Node
 Catatan: Untuk Pool cosmoshub kita perlu membuat file .env dengan cara
 ```
-echo 'KYVEJS_TENDERMINT_BSYNC_RPC="https://cosmos-rpc.polkachu.com/"' > .env
+echo 'KYVEJS_TENDERMINT_BSYNC_RPC="https://rpc.atomscan.com/"' > .env
 ``` 
 kemudian start nodenya
 ```
