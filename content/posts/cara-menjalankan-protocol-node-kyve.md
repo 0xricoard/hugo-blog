@@ -6,7 +6,7 @@ author: ["Rico Ardiansyah"]
 categories:
 - Node
 cover:
-    image: "https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/kyve%20protocol.png"
+    image: "https://i.ibb.co/7gd9QJg/IMG-6090.jpg"
 ---
 # Apa itu protocol node KYVE?
 ![KYVE Web App dashboard](https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/kyve%20protocol.png)
