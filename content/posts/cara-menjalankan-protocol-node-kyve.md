@@ -14,10 +14,10 @@ Protocol node kyve adalah tulang punggung kumpulan penyimpanan KYVE. Mereka bert
 
 ## Instalasi
 Spesifikasi minimum untuk menjalankan protocol node adalah:
-2 or more physical CPU cores
-16 GB RAM
-512 GB DISK
-50mbps network bandwidth
+- 2 or more physical CPU cores
+- 16 GB RAM
+- 512 GB DISK
+- 50mbps network bandwidth
 ### Membuat wallet Arweave
 Buat wallet arweave [disini](https://arweave.app/add) setelah itu simpan keystore anda berbentuk .json itu jangan sampai hilang.
 ### Membuat wallet Bundlr
