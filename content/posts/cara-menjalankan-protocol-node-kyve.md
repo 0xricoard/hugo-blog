@@ -45,7 +45,7 @@ bundlr fund 1000000000000 -h https://node1.bundlr.network -w arweave.json -c arw
 ```
 Dalam contoh ini gw mendanai Bundlr dengan 1 $AR yang seharusnya lebih dari cukup, untuk beli arweave bisa dibinance atau kucoin. Setelah sekitar ~30 menit, Anda dapat melihat saldo Anda:
 ```
-bundlr balance gantidenganwalletarweavemu -h https://node1.bundlr.network -c arweave
+bundlr balance gantidenganaddressarweavemu -h https://node1.bundlr.network -c arweave
 ```
 ### Install KYSOR
 Install binari terbaru kysor dengan cara
