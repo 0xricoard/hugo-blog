@@ -73,7 +73,7 @@ Setelah KYSOR diinisialisasi, kita lanjutkan ke langkah berikutnya. Untuk setiap
 ./kysor valaccounts create \
 --name 'cosmoshub' \
 --pool 0 \
---storage-priv "$(cat root/arweave.json)" \
+--storage-priv "$(cat /root/arweave.json)" \
 --metrics
 ```
 silahkan sesuaikan letak dari keystore arweave anda disini saya meletakkannya di folder root.
