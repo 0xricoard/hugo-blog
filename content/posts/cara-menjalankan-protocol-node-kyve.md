@@ -54,6 +54,7 @@ wget https://github.com/KYVENetwork/kyvejs/releases/download/%40kyve%2Fkysor%401
 unzip kysor-linux-x64.zip
 mv kysor-linux-x64 kysor
 chmod 700 kysor
+rm -f kysor-linux-x64.zip
 ```
 setelah selesai install cek versi kysor dengan
 ./kysor version
