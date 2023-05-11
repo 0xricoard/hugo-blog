@@ -131,7 +131,7 @@ menu:
       weight: 30
     - identifier: contact
       name: Contact
-      url: mailto:rikohacker007@gmail.com
+      url: https://telegram.com/ardiansyah_w404
       weight: 40
     - identifier: About
       name: About
