@@ -117,8 +117,8 @@ After the node is successfully started, you will see the following log:
 2023-02-13 08:46:00.876  INFO  Visit https://app.kyve.network and join the pool from your validator account:
 
 2023-02-13 08:46:00.876  INFO  Valaddress:    kyve1887l27uwn5r6u9gxw7dg9wt0kqh7uk23suumzc
-2023-02-13 08:46:00.876  INFO  Valname:       cosmoshub
+2023-02-13 08:46:00.876  INFO  Valname:       causal-chocolate-sparrow
 
-2023-02-13 08:46:00.876  INFO  Starting Tendermint node
+2023-02-13 08:46:00.876  INFO  The node will not continue until the account is authorized
 ```
 Congratulations! You are now running a KYVE node protocol. To check your validator status, go to [https://app.kaon.kyve.network/#/validators?status=1](https://app.kaon.kyve.network/#/validators?status=1), connect your wallet, and click Become a Validator in the top right corner. Please fill in the Valaddress and Valname data according to the log that appears on your node.
