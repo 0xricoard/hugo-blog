@@ -8,6 +8,7 @@ categories:
 cover:
     image: "https://i.ibb.co/7gd9QJg/IMG-6090.jpg"
 ---
+> **_NOTE:_**  the English version can be found [here](https://muhammadri.co/posts/how-to-run-kyve-protocol-node/).
 # Apa itu protocol node KYVE?
 ![KYVE Web App dashboard](https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/kyve%20protocol.png)
 Protocol node kyve adalah tulang punggung kumpulan penyimpanan KYVE. Mereka bertanggung jawab untuk mengumpulkan data dari sumber data, menggabungkan dan mengunggahnya ke penyedia penyimpanan Web3 seperti Arweave dan memverifikasinya. Ini memungkinkan KYVE untuk menyimpan aliran data apa pun secara permanen dan dengan cara terdesentralisasi.
