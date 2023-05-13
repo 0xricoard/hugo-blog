@@ -50,7 +50,7 @@ bundlr fund 1000000000000 -h https://node1.bundlr.network -w arweave.json -c arw
 ```
 In this example, I am funding Bundlr with 1 $AR which should be more than enough. To buy Arweave, you can use Binance or Kucoin. After about ~30 minutes, you can check your balance:
 ```
-bundlr balance gantidenganaddressarweavemu -h https://node1.bundlr.network -c arweave
+bundlr balance replaceyourarweaveaddress -h https://node1.bundlr.network -c arweave
 ```
 ### Install KYSOR
 Install the latest KYSOR binary with:
