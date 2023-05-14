@@ -121,4 +121,38 @@ After the node is successfully started, you will see the following log:
 
 2023-02-13 08:46:00.876  INFO  The node will not continue until the account is authorized
 ```
+
+## Start node with Systemd
+The systemd is used for running the kyve node in the background.
+run this command to setup systemd
+```
+tee <<EOF > /dev/null /etc/systemd/system/cosmoshubd.service
+[Unit]
+Description=KYVE Protocol-Node cosmoshub daemon
+After=network-online.target
+
+[Service]
+User=root
+ExecStart=/root/kysor start --valaccount 'cosmoshub' --env-file="/root/.env"
+Restart=on-failure
+RestartSec=3
+LimitNOFILE=infinity
+
+[Install]
+WantedBy=multi-user.target
+EOF
+```
+### Enable KYVE Node Service
+To enable KYVE Node Service run this command
+```
+systemctl enable cosmoshubd
+```
+start the service
+```
+systemctl start cosmoshubd
+```
+To view the logs
+```
+journalctl -fu cosmoshubd -o cat
+```
 Congratulations! You are now running a KYVE node protocol. To check your validator status, go to [https://app.kaon.kyve.network/#/validators?status=1](https://app.kaon.kyve.network/#/validators?status=1), connect your wallet, and click Become a Validator in the top right corner. Please fill in the Valaddress and Valname data according to the log that appears on your node.
