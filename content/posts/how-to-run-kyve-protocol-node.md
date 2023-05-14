@@ -13,7 +13,7 @@ tags:
 cover:
     image: "https://i.ibb.co/7gd9QJg/IMG-6090.jpg"
 ---
-# What is KYVE node protocol?
+# What is KYVE Protocol Node?
 ![KYVE Web App dashboard](https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/kyve%20protocol.png)
 The KYVE protocol node is the backbone of the KYVE storage collection. They are responsible for collecting data from data sources, merging and uploading it to Web3 storage providers like Arweave, and verifying it. This allows KYVE to store any data stream permanently and in a decentralized manner.
 
