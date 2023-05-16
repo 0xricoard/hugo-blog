@@ -52,6 +52,8 @@ In this example, I am funding Bundlr with 1 $AR which should be more than enough
 ```
 bundlr balance replaceyourarweaveaddress -h https://node1.bundlr.network -c arweave
 ```
+note: please replace your **arweave wallet address**
+
 ### Install KYSOR
 Install the latest KYSOR binary with:
 ```
