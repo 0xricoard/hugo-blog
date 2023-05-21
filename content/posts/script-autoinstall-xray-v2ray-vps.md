@@ -63,6 +63,6 @@ bash -c "$(curl -fsSL https://s.id/xraysc)"
 ```
 Tunggu sampai selesai
 
-# Screenshot
+## Screenshot
 Berikut adalah tampilan jika sudah selesai install scriptnya, kalian bisa pilih menu-menunya
 ![Tampilan awal](https://i.ibb.co/nfBGYXF/IMG-6219.jpg)
