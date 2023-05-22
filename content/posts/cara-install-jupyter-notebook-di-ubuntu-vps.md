@@ -6,7 +6,7 @@ author: ["Rico Ardiansyah"]
 categories:
 - Tutorial
 cover:
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png"
+    image: "https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image3-1.png?w=756&ssl=1"
 ---
 
 # Apa itu Jupyter Notebook
