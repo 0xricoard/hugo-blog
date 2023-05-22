@@ -87,7 +87,7 @@ jupyter notebook
 
 Setelah itu, Jupyter Notebook akan terbuka di browser default Anda dengan tampilan seperti berikut:
 
-![Jupyter Notebook Homepage](https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/image.png)
+![Jupyter Notebook Homepage](https://docs.jupyter.org/en/latest/_images/tryjupyter_file.png)
 
 Anda dapat membuat notebook baru dan menulis kode di dalamnya seperti biasa. Setelah selesai menggunakan Jupyter Notebook, jangan lupa untuk menonaktifkan virtualenv dengan menjalankan perintah:
 
