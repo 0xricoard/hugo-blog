@@ -4,7 +4,7 @@ date: 2023-05-20
 draft: false
 author: ["Rico Ardiansyah"]
 categories:
-- Sceipt
+- Script
 cover:
     image: "https://i.ibb.co/nfBGYXF/IMG-6219.jpg"
 ---
