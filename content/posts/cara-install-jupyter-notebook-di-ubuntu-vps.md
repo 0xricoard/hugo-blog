@@ -119,7 +119,7 @@ nano ~/.jupyter/jupyter_notebook_config.py
 Kemudian cari baris `# c.NotebookApp.ip = 'localhost'` dan hapus tanda pagar (#) pada awal baris dan ubah nilai localhost menjadi 0.0.0.0. Ini akan menjadikan Jupyter berjalan disemua jaringan yang terhubung tidak localhost saja.
 Atau dapat melakukan cara cepat tanpa perlu edit manual lagi dengan cara
 ```
-sed -i 's/^.*c.NotebookApp.ip.*/c.NotebookApp.ip = "0.0.0.0"/g' ~/.jupyter/jupyter_notebook_config.py
+sed -i "s/# c.NotebookApp.ip = 'localhost'/c.NotebookApp.ip = '0.0.0.0'/" ~/.jupyter/jupyter_notebook_config.py
 ```
 Perintah diatas akan otomatis mengganti tulisan localhost ke 0.0.0.0
 Save dan jalankan Jupyter lagi,
