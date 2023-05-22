@@ -6,11 +6,11 @@ author: ["Rico Ardiansyah"]
 categories:
 - Tutorial
 cover:
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/414px-Jupyter_logo.svg.png"
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png"
 ---
 
 # Apa itu Jupyter Notebook
-![Jupyter Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/414px-Jupyter_logo.svg.png)
+![Jupyter Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png)
 
 Jupyter Notebook adalah aplikasi web yang digunakan untuk membuat, menjalankan, dan membagikan kode secara interaktif. Aplikasi ini sangat berguna bagi para data scientist dan programmer yang ingin membagikan dan mengembangkan kode dengan mudah. Di artikel ini, kita akan membahas langkah-langkah cara install Jupyter Notebook di Ubuntu.
 
