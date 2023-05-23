@@ -12,7 +12,7 @@ cover:
 # Apa itu Jupyter Notebook
 ![Jupyter Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png)
 
-Jupyter Notebook adalah aplikasi web yang digunakan untuk membuat, menjalankan, dan membagikan kode secara interaktif. Aplikasi ini sangat berguna bagi para data scientist dan programmer yang ingin membagikan dan mengembangkan kode dengan mudah. Di artikel ini, kita akan membahas langkah-langkah cara install Jupyter Notebook di Ubuntu 18, 20.04, dan 22
+Jupyter Notebook adalah aplikasi web yang digunakan untuk membuat, menjalankan, dan membagikan kode secara interaktif. Aplikasi ini sangat berguna bagi para data scientist dan programmer yang ingin membagikan dan mengembangkan kode dengan mudah. Di artikel ini, kita akan membahas langkah-langkah cara install Jupyter Notebook di Linux Ubuntu 18, 20.04, dan 22
 
 ## Langkah-langkah installasi
 
