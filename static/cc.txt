@@ -10,6 +10,8 @@ network:
      addresses: [192.168.56.2/24]
   version: 2
 
+netplan apply
+reboot
 chmod 777 /var/www/html
 apt install -y apache2 php libapache2-mod-php php-mysql
 apt install -y mysql-server
