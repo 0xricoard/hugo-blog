@@ -1,5 +1,5 @@
 apt update
-root@ngocok:~# cat /etc/netplan/00-installer-config.yaml
+root@ngocok:~# nano /etc/netplan/00-installer-config.yaml
 # This is the network config written by 'subiquity'
 network:
   ethernets:
@@ -14,3 +14,5 @@ apt install -y apache2 php libapache2-mod-php php-mysql
 apt install -y mysql-server
 apt install -y phpmyadmin
 CREATE USER 'admin'@'localhost' IDENTIFIED BY 'admin';
+GRANT ALL PRIVILEGES ON *.* TO 'admin'@'localhost' WITH GRANT OPTION;
+FLUSH PRIVILEGES;
