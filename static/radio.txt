@@ -1,0 +1,103 @@
+Jika Anda ingin mengganti input kode barang dengan Radio Button, maka Anda dapat menggunakan widget RadioListTile dan menentukan nilai yang berbeda untuk setiap Radio Button. Berikut adalah contoh kode:
+
+```
+import 'package:flutter/material.dart';
+import 'package:http/http.dart' as http;
+import 'home.dart';
+import 'package:flutter/services.dart';
+
+class AddData extends StatefulWidget {
+  @override
+  _AddDataState createState() => _AddDataState();
+}
+
+class _AddDataState extends State<AddData> {
+  TextEditingController namaController = TextEditingController();
+  TextEditingController hargaController = TextEditingController();
+  TextEditingController spesifikasiController = TextEditingController();
+  TextEditingController merkController = TextEditingController();
+
+  int kodeBarang;
+  List<String> kodeBarangList = ['1', '2', '3'];
+
+  void addData() {
+    var url = Uri.parse("https://api.bams-wp.my.id/akademik/barang");
+
+    http.post(url, body: {
+      "kode": kodeBarang.toString(),
+      "nama": namaController.text,
+      "harga": hargaController.text,
+      "spesifikasi": spesifikasiController.text,
+      "merk": merkController.text,
+    });
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text("ADD DATA"),
+      ),
+      body: Padding(
+        padding: EdgeInsets.all(10.0),
+       child: ListView(
+          children: <Widget>[
+            Text(
+              "Input Data Barang",
+              style: TextStyle(
+                color: Colors.red,
+                fontStyle: FontStyle.italic,
+                fontWeight: FontWeight.bold,
+                fontSize: 25,
+              ),
+            ),
+            SizedBox(
+              height: 40,
+            ),
+            Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: <Widget>[
+                Text(
+                  'Kode Barang',
+                  style: TextStyle(fontSize: 16.0),
+                ),
+                SizedBox(
+                  height: 10,
+                ),
+                Column(
+                  children: kodeBarangList.map((String value) {
+                    return RadioListTile(
+                      title: Text(value),
+                      value: int.parse(value),
+                      groupValue: kodeBarang,
+                      onChanged: (newValue) {
+                        setState(() {
+                          kodeBarang = newValue;
+                        });
+                      },
+                    );
+                  }).toList(),
+                ),
+              ],
+            ),
+            TextFormField(
+              controller: namaController,
+              decoration: InputDecoration(labelText: "Nama Barang"),
+            ),
+            TextFormField(
+              controller: hargaController,
+              decoration: InputDecoration(
+                labelText: "Harga Barang",
+              ),
+              keyboardType: TextInputType.number,
+            ),
+            TextFormField(
+              controller: spesifikasiController,
+              decoration: InputDecoration(labelText: "Spesifikasi"),
+            ),
+            TextFormField(
+              controller: merkController,
+              decoration: InputDecoration(labelText: "Merk Barang"),
+            ),
+            SizedBox(
+              height: 50Dalam contoh kode di atas, RadioListTile digunakan untuk menampilkan Radio Button dengan opsi kode barang yang berbeda. Nilai untuk setiap Radio Button ditentukan dengan menambahkan List<String> kodeBarangList dan menggunakan parseInt() untuk mengubah nilai String menjadi integer. Kemudian, pada metode addData(), kodeBarang digunakan sebagai nilai untuk "kode" dalam http.post().
