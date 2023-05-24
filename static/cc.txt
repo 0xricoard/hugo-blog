@@ -1,3 +1,4 @@
+sudo su
 apt update
 root@ngocok:~# nano /etc/netplan/00-installer-config.yaml
 # This is the network config written by 'subiquity'
