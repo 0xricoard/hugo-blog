@@ -1,0 +1,115 @@
+Untuk mengganti input kode barang dengan combobox dengan opsi 1, 2, dan 3, Anda dapat mengubah TextFormField menjadi DropdownButtonFormField dan menentukan pilihan dengan menambahkan List<String> untuk menampung nilai pilihan. Berikut adalah contoh kode:
+
+```
+import 'package:flutter/material.dart';
+import 'package:http/http.dart' as http;
+import 'home.dart';
+import 'package:flutter/services.dart';
+
+class AddData extends StatefulWidget {
+  @override
+  _AddDataState createState() => _AddDataState();
+}
+
+class _AddDataState extends State<AddData> {
+  TextEditingController namaController = TextEditingController();
+  TextEditingController hargaController = TextEditingController();
+  TextEditingController spesifikasiController = TextEditingController();
+  TextEditingController merkController = TextEditingController();
+
+  String kodeBarang;
+  List<String> kodeBarangList = ['1', '2', '3'];
+
+  void addData() {
+    var url = Uri.parse("https://api.bams-wp.my.id/akademik/barang");
+
+    http.post(url, body: {
+      "kode": kodeBarang,
+      "nama": namaController.text,
+      "harga": hargaController.text,
+      "spesifikasi": spesifikasiController.text,
+      "merk": merkController.text,
+    });
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text("ADD DATA"),
+      ),
+body: Padding(
+        padding: EdgeInsets.all(10.0),
+        child: ListView(
+          children: <Widget>[
+            Text(
+              "Input Data Barang",
+              style: TextStyle(
+                color: Colors.red,
+                fontStyle: FontStyle.italic,
+                fontWeight: FontWeight.bold,
+                fontSize: 25,
+              ),
+            ),
+            SizedBox(
+              height: 40,
+            ),
+            DropdownButtonFormField(
+              value: kodeBarang,
+              items: kodeBarangList.map((String value) {
+                return DropdownMenuItem<String>(
+                  value: value,
+                  child: Text(value),
+                );
+              }).toList(),
+              onChanged: (newValue) {
+                setState(() {
+                  kodeBarang = newValue;
+                });
+              },
+              decoration: InputDecoration(
+                labelText: "Kode Barang",
+              ),
+            ),
+            TextFormField(
+              controller: namaController,
+              decoration: InputDecoration(labelText: "Nama Barang"),
+            ),
+            TextFormField(
+              controller: hargaController,
+              decoration: InputDecoration(
+                labelText: "Harga Barang",
+              ),
+              keyboardType: TextInputType.number,
+            ),
+            TextFormField(
+              controller: spesifikasiController,
+              decoration: InputDecoration(labelText: "Spesifikasi"),
+            ),
+            TextFormField(
+              controller: merkController,
+              decoration: InputDecoration(labelText: "Merk Barang"),
+            ),
+            SizedBox(
+              height: 50,
+            ),
+            ElevatedButton(
+              onPressed: () {
+                addData();
+                Navigator.pushAndRemoveUntil(
+context,
+                  MaterialPageRoute(builder: (context) => Home()),
+                  (Route<dynamic> route) => false,
+                );
+              },
+              child: Text("Simpan"),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+```
+
+Dalam contoh kode di atas, DropdownButtonFormField digunakan untuk menampilkan opsi kode barang dengan nilai 1, 2, dan 3. Nilai pilihan dapat diatur dengan menambahkan List<String> kodeBarangList. Kemudian, pada metode addData(), kodeBarang digunakan sebagai nilai untuk "kode" dalam http.post().
