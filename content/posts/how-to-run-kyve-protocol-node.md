@@ -57,12 +57,13 @@ note: please replace your **arweave wallet address**
 ### Install KYSOR
 Install the latest KYSOR binary with:
 ```
-wget https://github.com/KYVENetwork/kyvejs/releases/download/%40kyve%2Fkysor%401.0.0-beta.20/kysor-linux-x64.zip
+wget https://github.com/KYVENetwork/kyvejs/releases/download/%40kyve%2Fkysor%401.0.0-beta.21/kysor-linux-x64.zip
 unzip kysor-linux-x64.zip
 mv kysor-linux-x64 kysor
 chmod 700 kysor
 rm -f kysor-linux-x64.zip
 ```
+**Tip** You can check KYSOR latest binaries [here](https://github.com/KYVENetwork/kyvejs/releases)
 After installation, check the KYSOR version with:
 ```
 ./kysor version
