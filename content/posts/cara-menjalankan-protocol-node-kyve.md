@@ -51,12 +51,13 @@ bundlr balance gantidenganaddressarweavemu -h https://node1.bundlr.network -c ar
 ### Install KYSOR
 Install binari terbaru kysor dengan cara
 ```
-wget https://github.com/KYVENetwork/kyvejs/releases/download/%40kyve%2Fkysor%401.0.0-beta.20/kysor-linux-x64.zip
+wget https://github.com/KYVENetwork/kyvejs/releases/download/%40kyve%2Fkysor%401.0.0-beta.21/kysor-linux-x64.zip
 unzip kysor-linux-x64.zip
 mv kysor-linux-x64 kysor
 chmod 700 kysor
 rm -f kysor-linux-x64.zip
 ```
+**Tip** Kalian bisa cek binari terbaru kysor [disini](https://github.com/KYVENetwork/kyvejs/releases)
 setelah selesai install cek versi kysor dengan
 ./kysor version
 ### Inisialisasi KYSOR
