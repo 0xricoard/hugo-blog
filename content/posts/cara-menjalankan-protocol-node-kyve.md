@@ -25,6 +25,7 @@ Buat wallet arweave [disini](https://arweave.app/add) setelah itu simpan keystor
 Bundlr membutuhkan nodejs maka dari itu install dulu nodejsnya dengan perintah:
 ```
 sudo apt-get update
+sudo apt-get install -y build-essential
 ```
 ```
 curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
