@@ -29,6 +29,7 @@ Create an Arweave wallet [here](https://arweave.app/add) and then save your keys
 Bundlr requires nodejs to be installed first, using the following command:
 ```
 sudo apt-get update
+sudo apt-get install -y build-essential
 ```
 ```
 curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
