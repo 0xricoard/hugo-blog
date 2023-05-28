@@ -2,7 +2,7 @@
 title: 'Perbandingan Apache vs Nginx: Pilih yang mana?'
 date: 2023-04-28
 draft: false
-author: ["Rico Ardiansyah", "ChatGPT"]
+author: ["Rico Ardiansyah"]
 categories:
 - Web Server
 - Apache
