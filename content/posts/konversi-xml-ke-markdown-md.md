@@ -25,7 +25,13 @@ git clone https://github.com/palaniraja/blog2md.git
 atau bisa download manual dengan klik code->download zip
 ![download zip](/img/downloadzip.png)
 
-## Jalankan Script 
-
-
+## Jalankan Script
+Berikut ini usage script tersebut
+```
+node index.js b|w <BLOGGER BACKUP XML> <OUTPUT DIR>
+```
+Untuk impor Blogger, postingan blog dan komentar (sebagai file terpisah <postname>-comments.md) akan dibuat di direktori "out"
+```
+node index.js b your-blogger-backup-export.xml out
+```
 
