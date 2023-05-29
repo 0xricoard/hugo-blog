@@ -47,6 +47,9 @@ node index.js w your-wordpress-backup-export.xml out
 Untuk cara mendapatkan file XML dari semua postingan wordpress klik [disini](https://muhammadri.co/posts/cara-ekspor-postingan-di-wordpress/)
 
 ## Hasil Konversi
-Setelah berhasil menjalankan perintah diatas semua postingan WordPress/Blogger tersebut akan berubah formatnya ke Markdown (MD)
+Setelah berhasil menjalankan perintah diatas semua postingan WordPress/Blogger tersebut akan berubah formatnya ke Markdown (MD) seperti screenshot dibawah ini
 ![Hasil Konvert](/img/hasilconvert.png)
- 
+
+## Kesimpulan
+Dengan melakukan konversi file XML ke MD dengan benar, Anda dapat menghasilkan teks yang lebih mudah dipahami dan digunakan dalam berbagai aplikasi dan situs web.
+Itulah tutorial Cara Mengubah/Convert Postingan WordPress & Blogger XML Ke Format Markdown(MD). Semoga Mmembantu!
