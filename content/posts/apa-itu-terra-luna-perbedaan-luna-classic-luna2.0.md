@@ -46,7 +46,7 @@ Penurunan lebih dari 90 persen telah membuat harga kedua token dalam genangan ai
 # Inilah perbedaan antara LUNC dan LUNA 2.0
 ![Lunc vs Luna 2.0](https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/lunc-vs-luna2.png)
 
-## Apa itu Luna Klasik (LUNC)?
+## Apa itu Luna Classic (LUNC)?
  Luna Classic adalah token asli dari jaringan Terra yang diluncurkan pada tahun 2018 oleh Terraformlabs, dengan nama asli LUNA. Token dibuat sebagai token kembar untuk menyerap fluktuasi harga stablecoin UST dan tidak memiliki pasokan tetap. Token ini juga digunakan untuk utilitas di jaringannya seperti tata kelola dan penambangan.
 Sementara itu, UST dirancang untuk menjaga kestabilan harganya, yang dipatok terhadap dolar AS, dengan menerbitkan dan membakar token UST dan LUNC. Hal ini dilakukan untuk menjaga stabilitas supply dan demand. Dalam kasus kejatuhan Terra, UST telah kehilangan sahamnya karena penjualan besar-besaran dan memaksa LUNC untuk melanjutkan pencetakan, dan persediaan membengkak. Ini mengirim LUNC ke dalam hiperinflasi dan harganya turun lebih dari 99 persen.
 ![Terra Coinmarketcap](https://raw.githubusercontent.com/0xricoard/hugo-blog/main/static/img/cmc-terra.png)
