@@ -17,3 +17,10 @@ Oke kali ini gw akan buat tutorial cara menambahkan GitHub Comments pake [uttera
 1. Kamu harus punya repo GitHub Public, Jika Kamu sudah menggunakan Github untuk meng-host situs web kamu seperti saya, maka cukup untuk menggunakan yang itu.
 2. Login ke github, kemudian klik https://github.com/apps/utterances dan install aplikasi utterances tersebut
 ![Install utterances](/img/IMG_6309.png)
+3. Kemudian pilih repositori yang ingin kamu tambahkan komentar dan klik install
+![Pilih repo](/img/IMG_6310.png)
+4. Buka web [utterances](https://utteranc.es/) dan isi:
+    - Isi repo yang dipilih tanpa url ``https://github.com/`` sebagai contoh saya disini akan pakai repo 0xricoard/hugo-blog
+      ![repo](/img/repo.png)
+    - Mapping: saya meemilih mapping dengan Issue title contains page title yang artinya Utterances akan mencari isu yang judulnya mengandung judul postingan blog. Jika isu yang cocok tidak ditemukan, Utterances akan secara otomatis membuat isu baru saat pertama kali seseorang mengomentari postingan Anda. atau kamu bisa pilih yang lainnya.
+![mapping](/img/mapping.png)
