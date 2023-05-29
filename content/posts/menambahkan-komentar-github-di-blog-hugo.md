@@ -22,5 +22,9 @@ Oke kali ini saya akan buat tutorial cara menambahkan GitHub Comments pake [utte
 4. Buka web [utterances](https://utteranc.es/) dan isi:
     - Isi repo yang dipilih tanpa url ``https://github.com/`` sebagai contoh saya disini akan pakai repo 0xricoard/hugo-blog
       ![repo](/img/repo.png)
-    - Mapping: saya meemilih mapping dengan Issue title contains page title yang artinya Utterances akan mencari isu yang judulnya mengandung judul postingan blog. Jika isu yang cocok tidak ditemukan, Utterances akan secara otomatis membuat isu baru saat pertama kali seseorang mengomentari postingan Anda. atau kamu bisa pilih yang lainnya.
+    - Mapping: saya memilih mapping dengan Issue title contains page title yang artinya Utterances akan mencari isu yang judulnya mengandung judul postingan blog. Jika isu yang cocok tidak ditemukan, Utterances akan secara otomatis membuat isu baru saat pertama kali seseorang mengomentari postingan Anda. atau kamu bisa pilih yang lainnya.
 ![mapping](/img/mapping.png)
+    - Issue Label: Saya tidak memberi label untuk isu komentarnya, kamu bisa memberi nama label dengan sesuka hati
+    - Theme: Saya memilih tema Preffered Color Scheme dikarenaka template Hugo saya dapat mendeteksi otomatis mode gelap atau mode terang pada perangkat, Kamu bisa pilih tema yang lainnya
+    ![Tema](/img/theme.png)
+5. 
