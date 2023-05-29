@@ -97,6 +97,7 @@ Note: For the Cosmoshub pool, we need to create a .env file with the command:
 ```
 echo 'KYVEJS_TENDERMINT_BSYNC_RPC="https://rpc.atomscan.com/"' > .env
 ``` 
+**Tip:** if the atomscan rpc is inaccessible you can run your own gaia node [here](https://docs.kyve.network/validators/protocol_nodes/pools/cosmos_hub/installation#install-gaia-full-node)
 then start the node:
 ```
 ./kysor start --valaccount 'cosmoshub' --env-file="/root/.env"
