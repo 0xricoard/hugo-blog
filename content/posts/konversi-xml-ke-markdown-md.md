@@ -15,7 +15,7 @@ XML (Extensible Markup Language) dan MD (Markdown) adalah dua format file yang b
 Berikut ini adalah cara konversi file XML ke MD yang dapat dilakukan dengan beberapa langkah sederhana:
 Salah satu cara untuk convert/mengubah xml ke md bisa dengan NodeJS menggunakan script github [ini](https://github.com/palaniraja/blog2md)
 ## Install NodeJS
-Hal pertama yang harus dilakukan adalah install NodeJS disini
+Hal pertama yang harus dilakukan adalah install NodeJS [disini](https://muhammadri.co/posts/cara-install-nodejs/)
 
 ## Download Scriptnya
 Kemudian download scriptnya dengan cara
