@@ -8,7 +8,7 @@ categories:
 - Hugo
 tags:
 - Hugo
-- Comments
+- GitHub Comments
 cover:
     image: "/img/github-comments.png"
 ---
@@ -27,4 +27,14 @@ Oke kali ini saya akan buat tutorial cara menambahkan GitHub Comments pake [utte
     - Issue Label: Saya tidak memberi label untuk isu komentarnya, kamu bisa memberi nama label dengan sesuka hati
     - Theme: Saya memilih tema Preffered Color Scheme dikarenaka template Hugo saya dapat mendeteksi otomatis mode gelap atau mode terang pada perangkat, Kamu bisa pilih tema yang lainnya
     ![Tema](/img/theme.png)
-5. 
+5. Copy hasil kode JavaScript yang telah dibuat
+   ![Kode](/img/kodescript.png)
+6. Tempel kode ke Hugo, Sebagian besar tema blog Hugo memiliki file ``comments.html`` di dalamnya (di bagian ``layout/partial`` misalnya). Tergantung pada pengaturan tema yang kamu pakai
+   ![comments.html](/img/commentshtml.png)
+7. Dan ini khusus untuk tema PaperMod yang saya gunakan, saya perlu mengubah parameter "comments" menjadi "true" di config.yml. Sekali lagi, Baca dokumentasi tema yang kamu gunakan!
+    ![set ke true](/img/commentstrue.png)
+ 
+Dan setelah semua konfigurasi diatas, kamu dapat melihat kolom komentar GitHub di bawah postingan. Ini akan mengharuskan pembaca kamu untuk masuk ke akun Github mereka sebelum berkomentar.
+![tampilan komen](/img/github-comments.png)
+Setelah komentar ditambahkan, Kamu akan melihat Issue terkait ditambahkan di repo GitHub.
+![issues](/img/issues.png)
