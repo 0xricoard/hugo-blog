@@ -7,7 +7,7 @@ categories:
 - Tutorial
 - Node.js
 cover:
-    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/320px-Node.js_logo.svg.png"
+    image: "https://nodejs.org/static/images/logo.svg"
 ---
 Node.js adalah platform runtime JavaScript yang sangat populer dan digunakan oleh banyak pengembang web. Node.js memungkinkan pengembang untuk menjalankan kode JavaScript di sisi server, memungkinkan pengembangan aplikasi web yang cepat dan efisien. Berikut adalah langkah-langkah cara install Node.js di berbagai sistem operasi (OS).
 
