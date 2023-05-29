@@ -1,5 +1,5 @@
 ---
-title: 'Cara Ubah File XML Ke Format Markdown(MD)'
+title: 'Cara Mengubah Postingan WordPress & Blogger XML Ke Format Markdown(MD)'
 date: 2023-05-29
 draft: false
 author: ["Rico Ardiansyah"]
@@ -26,12 +26,27 @@ atau bisa download manual dengan klik code->download zip
 ![download zip](/img/downloadzip.png)
 
 ## Jalankan Script
-Berikut ini usage script tersebut
+Setelah selesai mendownload scriptnya kemudian install module yang diperlukan
+```
+npm install
+```
+Berikut ini usage untuk menjalankan script tersebut
 ```
 node index.js b|w <BLOGGER BACKUP XML> <OUTPUT DIR>
 ```
+### Import Blogger
 Untuk impor Blogger, postingan blog dan komentar (sebagai file terpisah <postname>-comments.md) akan dibuat di direktori "out"
 ```
 node index.js b your-blogger-backup-export.xml out
 ```
+### Import WordPress
+Untuk impor WordPress, postingan blog dan komentar (sebagai file terpisah <postname>-comments.md) akan dibuat di direktori "out"
+```
+node index.js w your-wordpress-backup-export.xml out
+```
+Untuk cara mendapatkan file XML dari semua postingan wordpress klik [disini](https://muhammadri.co/posts/cara-ekspor-postingan-di-wordpress/)
 
+## Hasil Konversi
+Setelah berhasil menjalankan perintah diatas semua postingan WordPress/Blogger tersebut akan berubah formatnya ke Markdown (MD)
+![Hasil Konvert](/img/hasilconvert.png)
+ 
