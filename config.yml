@@ -41,7 +41,7 @@ params:
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: true
-  disqusShortname: blog-rico
+  #disqusShortname: blog-rico
   hidemeta: false
   hideSummary: false
   showtoc: true
