@@ -1,5 +1,5 @@
 ---
-title: 'Cara Install Script Auto Install Xray&V2ray Multipath di VPS'
+title: 'Script Auto Install Xray&V2ray Multipath di VPS'
 date: 2023-05-20
 draft: false
 author: ["Rico Ardiansyah"]
