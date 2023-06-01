@@ -1,6 +1,7 @@
 ---
 title: 'Cara Install Node.js di Semua OS'
 date: 2023-05-29
+lastmod: 2023-06-01
 draft: false
 author: ["Rico Ardiansyah"]
 categories:
