@@ -1,5 +1,5 @@
 ---
-title: 'Cara Mengaktifkan Login Root SSH di VM Google Cloud'
+title: 'Cara Mengaktifkan Login Root SSH di VPS Google Cloud'
 date: 2023-05-25
 draft: false
 author: ["Rico Ardiansyah"]
