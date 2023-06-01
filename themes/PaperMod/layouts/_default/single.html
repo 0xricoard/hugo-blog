@@ -35,7 +35,7 @@
     {{ partial "related.html" . }}
   </div>
   {{ $lastmod := .Lastmod.UTC.Format "2 January 2006" }}
-Last updated: {{ $lastmod }}
+  <p><small>Last updated: {{ $lastmod }}</small></p>
   {{- end }}
 
   <footer class="post-footer">
