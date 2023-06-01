@@ -7,6 +7,13 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+enableGitInfo: true
+frontmatter:
+  lastmod:
+  - lastmod
+  - :git
+  - date
+  - publishDate
 
 googleAnalytics: G-5MY9QDXY3P
 
