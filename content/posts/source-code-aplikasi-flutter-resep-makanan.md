@@ -13,8 +13,9 @@ tags:
 cover:
     image: "https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png"
 ---
-Pada artikel kali ini saya akan membagikan source code aplikasi android flutter Recipe App/Resep makanan. Project aplikasi ini sebenarnya tugas akhir saya di matkul Pemroograman Berbasis Mobile 2 di STMIK Widya Pratama ya sederhana lah 
-aplikasi ini menggunakan array dan list builder untuk menampilkan item resep.
+Pada artikel kali ini saya akan membagikan source code aplikasi android flutter Recipe App/Resep makanan. Project aplikasi ini sebenarnya tugas akhir saya di matkul Pemroograman Berbasis Mobile 2 di STMIK Widya Pratama ya sederhana lah.
+
+Aplikasi ini menggunakan array dan list builder untuk menampilkan item resep.
 ## Tampilan aplikasi
 Aplikasi ini terdiri dari 2 halaman yaitu Home dan halaman Detail resepnya
 
