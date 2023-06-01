@@ -1,5 +1,5 @@
 ---
-title: 'Cara Install Node.js di Berbagai OS'
+title: 'Cara Install Node.js di Semua OS'
 date: 2023-05-29
 draft: false
 author: ["Rico Ardiansyah"]
