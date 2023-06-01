@@ -104,7 +104,8 @@ $ sudo tar -C /usr/local -xzf go1.16.4.darwin-amd64.tar.gz
 
 Pastikan untuk mengganti nama file Go yang telah diunduh dengan nama file yang sesuai.
 
-### Langkah 3: Konfigurasi LingkunganSetelah instalasi selesai, kita perlu mengkonfigurasi lingkungan Go. Tambahkan konfigurasi Go ke file `.bash_profile` dengan menjalankan perintah di bawah ini:
+### Langkah 3: Konfigurasi Lingkungan
+Setelah instalasi selesai, kita perlu mengkonfigurasi lingkungan Go. Tambahkan konfigurasi Go ke file `.bash_profile` dengan menjalankan perintah di bawah ini:
 
 ```
 $ echo "export PATH=$PATH:/usr/local/go/bin" >> ~/.bash_profile
