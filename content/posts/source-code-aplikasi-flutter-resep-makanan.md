@@ -32,7 +32,5 @@ dan ini bisa ditambahin lagi sesuka hati dengan menambahkan list di file ``home.
  ## Download Source Code
  Untuk dapat melihat source code aplikasi resep makanan tersebut dapat klik github saya [disini](https://github.com/0xricoard/simple-recipe-app-flutter) 
  atau dapat mendownload langsung dalam format zip
- <div style="text-align: center;">
-test
-</div>
-<center><h3>[Download Source Code Aplikasi Flutter Resep Makanan](https://safelink-robotinternet.blogspot.com/p/generate.html?url=IyNYQVIlMDZaTSU1QyU1QklFJTA3JTVCTElNJTQwJTA3JTVCTk1aJTA3TSU1RUElNDBLWkklMDdaTSU1QyU1QyU1REROJTA1WFhJJTA1TVhBS01aJTA1TURYRUElNUIlMDdMWklHS0FaUCUxOCUwN0VHSyUwNkolNUQlNDAlNUNBTyUwNyUwNyUxMiU1QlglNUMlNUMlNDAjIw%3D%3D)</h3></center>
+ <div align="center">pp.</div>
+
