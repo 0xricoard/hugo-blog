@@ -29,7 +29,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Rico Ardiansyah's Blog
   description: "Welcome to my blog. Blog static cuman buat dokumentasi dan sharing-sharing biar gak lupa hehe kadang juga suka nulis random"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Rico Ardiansyah Blog, Portfolio, Muhammad Rico Ardiansyah]
   author: Rico Ardiansyah
   # author: ["Me", "You"] # multiple authors
   images: "/img"
