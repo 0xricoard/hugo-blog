@@ -21,13 +21,13 @@ Go atau disebut juga Golang adalah bahasa pemrograman open source yang dikembang
 
 Untuk instalasi Go di Windows, pertama-tama kita harus mengunduh paket instalasi Go terlebih dahulu. Buka [halaman unduh resmi Go](https://golang.org/dl/) dan unduh file instalasi Go terbaru untuk Windows. Pilih sesuai dengan jenis sistem operasi yang digunakan, apakah 32-bit atau 64-bit.
 
-![Download Go for Windows](https://i.imgur.com/p9is0IH.png)
+![Download Go for Windows](https://www.golinuxcloud.com/wp-content/uploads/doversion-e1668964731686.jpg)
 
 ### Langkah 2: Instalasi Go
 
 Setelah file instalasi Go untuk Windows berhasil diunduh, kita dapat membuka file tersebut dengan mengklik dua kali pada file tersebut. Maka akanmuncul jendela seperti di bawah ini:
 
-![Go Installer](https://i.imgur.com/3J8Uk7v.png)
+![Go Installer](https://www.golinuxcloud.com/wp-content/uploads/step1.jpg)
 
 Klik tombol "Next" untuk memulai proses instalasi.
 
@@ -35,21 +35,16 @@ Klik tombol "Next" untuk memulai proses instalasi.
 
 Setelah itu, kita akan diminta untuk memilih direktori tempat instalasi Go. Pilih direktori yang diinginkan atau gunakan direktori default yang sudah terisi.
 
-![Select Installation Directory](https://i.imgur.com/tt4uC1e.png)
+![Select Installation Directory](https://www.golinuxcloud.com/wp-content/uploads/step3.jpg)
 
 Selanjutnya, pilih komponen yang akan diinstal. Jika tidak yakin, biarkan pilihan default dan klik "Next".
-
-![Select Components](https://i.imgur.com/8O0y3wL.png)
-
 Pada langkah selanjutnya, kita akan diminta untuk memilih folder untuk menginstal Tools Go. Pilih direktori yang diinginkan atau gunakan direktori default. Kemudian, klik "Install" untuk memulai proses instalasi.
-
-![Select Tools Directory](https://i.imgur.com/vb8xT3u.png)
 
 ### Langkah 4: Instalasi Selesai
 
 Setelah proses instalasi selesai, klik "Finish" untuk menyelesaikan instalasi.
 
-![Finish Installation](https://i.imgur.com/7G8nZL9.png)
+![Finish Installation](https://www.golinuxcloud.com/wp-content/uploads/step6.jpg)
 
 Kita telah berhasil menginstal Go di Windows.
 
