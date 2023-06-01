@@ -150,3 +150,13 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+    
+includeNewer: true
+threshold: 80
+toLower: false
+related:
+  indices:
+    - name: tags
+      weight: 100
+    - name: date
+      weight: 10
