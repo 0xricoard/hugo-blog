@@ -12,6 +12,7 @@ tags:
 cover:
     image: "https://forta.org/wp-content/uploads/2022/06/og-img.jpg"
 ---
+![Forta Network](https://forta.org/wp-content/uploads/2022/06/og-img.jpg)
 Pada artikel ini saya akan membuat tutorial Cara Membuat dan Menjalankan Node di Forta Network, Tutorial ini agak panjang jadi jangan di skip-skip ya agar nantinya tidak ada error. Sebelumnya apa sih Forta Network dan kegunaan Nodenya itu?
 # Apa itu Forta Network
 ![Forta Home](/img/fortahome.png)
