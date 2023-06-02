@@ -14,6 +14,7 @@ cover:
 ---
 Pada artikel ini saya akan membuat tutorial Cara Membuat dan Menjalankan Node di Forta Network, Tutorial ini agak panjang jadi jangan di skip-skip ya agar nantinya tidak ada error. Sebelumnya apa sih Forta Network dan kegunaan Nodenya itu?
 # Apa itu Forta Network
+![Forta Home](/img/fortahome.png)
 Forta adalah jaringan deteksi waktu nyata untuk keamanan & pemantauan operasional aktivitas blockchain. Forta adalah jaringan pemantauan berbasis komunitas yang terdesentralisasi untuk mendeteksi ancaman dan anomali pada DeFi, NFT, tata kelola, jembatan, dan sistem Web3 lainnya secara real-time. Dengan adanya peringatan yang tepat waktu dan relevan tentang keamanan dan kesehatan sistem yang dimiliki atau bergantung, protokol dan investor dapat bereaksi dengan cepat untuk menetralisir ancaman dan mencegah atau meminimalkan hilangnya dana. Forta terdiri dari jaringan terdesentralisasi dari operator node independen yang memindai semua transaksi dan perubahan status blok demi blok untuk transaksi dan ancaman yang mencolok. Ketika sebuah masalah terdeteksi, operator node mengirimkan peringatan kepada pelanggan tentang potensi risiko, yang memungkinkan mereka untuk mengambil tindakan. Dengan memanfaatkan Forta, para pengembang dapat membangun bot pendeteksi dan model pembelajaran mesin, dan menjalankannya di jaringan Forta yang terdesentralisasi untuk mengungkap aktivitas anomali pada setiap transaksi blockchain. Forta akan diamankan dan diatur oleh kontrak pintar dan penggunaan utilitas FORT dan token tata kelola.
 
 ## Apa itu Scan Node
@@ -108,7 +109,7 @@ forta init --passphrase <your_passphrase>
 ```
 > **Catatan!:** Silahkan ganti ``<your_passphrase>`` dengan passphrase/password yang Anda inginkan.
 
-![Forta init](/img/fortainit.png)
+![Forta init](/img/fortainit)
 Perintah diatas akan menghasilkan direktori config, Sebuah private key baru dan address Anda.
 > **Catatan!:** Download dan simpan baik-baik private key anda dengan cara mendownload semua file di dalam folder ``.forta``
 
@@ -148,11 +149,83 @@ jsonRpcProxy:
   jsonRpc:
     url: http://different-api:8545
 ```
+Forta saat ini hanya support EVM Chain yaitu BSC, Polygon, Avalanche, Arbitrum, Optimism, Fantom.
 
+Dibawah ini adalah kode selain ETH:
+### BSC
+```
+chainId: 56
+
+scan:
+  jsonRpc:
+    url: https://bscrpc.com/
+
+trace:
+  enabled: false
+  ```
+### Polygon
+```
+chainId: 137
+
+scan:
+  jsonRpc:
+    url: https://polygon-rpc.com/
+
+trace:
+  enabled: false
+```
+### Avalanche
+```
+chainId: 43114
+
+scan:
+  jsonRpc:
+    url: https://rpc.ankr.com/avalanche
+
+trace:
+  enabled: false
+```
+### Arbitrum
+```
+chainId: 42161
+
+scan:
+  jsonRpc:
+    url: https://rpc.ankr.com/arbitrum
+
+trace:
+  enabled: false
+```
+### Optimism
+```
+chainId: 10
+
+scan:
+  jsonRpc:
+    url: https://rpc.ankr.com/optimism
+
+trace:
+  enabled: false
+```
+### Fantom
+```
+chainId: 250
+
+scan:
+  jsonRpc:
+    url: https://rpc.ftm.tools/
+
+trace:
+  jsonRpc:
+    url: https://rpcapi-tracing.fantom.network/
+```
 ## Register Scan Node
 **Pastikan Anda telah mengatur chainId di ``config.yml`` dengan benar sebelum mendaftarkan node Anda**. Scan Node Anda hanya dapat didaftarkan **satu kali** dan untuk memindai chain tertentu.
 
-Anda dapat register node anda dengan:
+Anda harus membuat Node Pool terlebih dahulu dengan cara buka [Forta App](https://app.forta.network/) dan konek wallet anda kemudian klik **My Node Pools** dan klik **Add Scanner Pool** pilih Chain yang ingin diregister kemudian klik **Register Scan Node Pool** dan Approve transaksi pada wallet.
+![Create Node Pool](/img/createnodepool.png)
+
+Selanjutnya Anda dapat register node anda dengan:
 - melakukan ``forta authorize pool --passphrase <passphrasemu> --id <pool-id-mu>``
 - menyalin token ke Forta App seperti yang dijelaskan di halaman [scanner pool management](https://docs.forta.network/en/latest/scanner-pools/) pada dokumen.
 
@@ -179,3 +252,24 @@ anda bisa menjalankan forta dengan manual tetapi saya tidak merekomendasikan dik
 ```
 forta run --passphrase <passphrase_mu>
 ```
+## Cek Log dan Status Forta
+Setelah start node forta, kita dapat memverifikasi apakah node forta berjalan dengan baik dan tidak ada error dengan cara
+
+### Cek Log Docker
+kita dapat melihat log docker dari container forta-scanner dengan realtime dengan cara
+```
+docker logs -f forta-scanner --tail 100
+```
+
+### Cek Status Forta
+Anda dapat mengecek status dari node forta tersebut apakah berjalan dengan baik atau tidak dengan perintah berikut
+```
+forta status
+```
+![Forta status](/img/fortastatus.png)
+**Pastikan statusnya hijau semua** yang artinya semua service forta berjalan dengan baik tanpa ada kesalahan.
+
+## Penutup
+Selamat! Sekarang anda sudah selesai membuat dan menjalankan node forta anda, Selanjutnya Anda tinggal menunggu reward $FORT dari node anda, Reward Forta akan didistribusikan tiap minggu.
+
+Itulah tutorial Cara Membuat dan Menjalankan Node di Forta Network. Semoga membantu!
