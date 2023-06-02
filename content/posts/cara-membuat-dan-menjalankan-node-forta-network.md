@@ -109,7 +109,7 @@ forta init --passphrase <your_passphrase>
 ```
 > **Catatan!:** Silahkan ganti ``<your_passphrase>`` dengan passphrase/password yang Anda inginkan.
 
-![Forta init](/img/fortainit)
+![Forta init](/img/fortainit.png)
 Perintah diatas akan menghasilkan direktori config, Sebuah private key baru dan address Anda.
 > **Catatan!:** Download dan simpan baik-baik private key anda dengan cara mendownload semua file di dalam folder ``.forta``
 
