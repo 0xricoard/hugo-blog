@@ -153,7 +153,7 @@ markup:
   highlight:
     noClasses: false
     # anchorLineNos: true
-    # codeFences: true
+      codeFences: true
     # guessSyntax: true
     # lineNos: true
     # style: monokai
@@ -167,5 +167,5 @@ related:
       weight: 100
     - name: tags
       weight: 100
-    - name: date
-      weight: 10
+    #- name: date
+      #weight: 10
