@@ -158,7 +158,7 @@ markup:
     # lineNos: true
     # style: monokai
     
-includeNewer: false
+includeNewer: true
 threshold: 80
 toLower: false
 related:
