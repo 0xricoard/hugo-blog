@@ -59,7 +59,7 @@ System clock synchronized: yes
           RTC in local TZ: no
 ```
 ### Install dan konfigurasi Docker
-Instal Docker (minimal v20.10)
+Instal [Docker](https://muhammadri.co/posts/install-docker-linux-windows-macos/) (minimal v20.10)
 
 Tambahkan file bernama ``daemon.json`` ke direktori ``/etc/docker`` Anda dengan konten berikut:
 ```
