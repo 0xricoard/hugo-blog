@@ -39,7 +39,7 @@ Untuk cara membuat VPS linux di Tencent Cloud sangatlah gampang, Berikut ini lan
 
 ### Mengecek VPS
 Untuk mengecek daftar VPS, Silakan klik [disini](https://console.tencentcloud.com/cvm/instance), Pada halaman instances terlihat beberapa informasi VPS yang telah dibuat mulai dari Nama, Status, Spek instance, Alamat IP dan billing.
-
+![view](/img/tencentview.png)
 Anda dapat login menggunakan IP yang tertera pada halaman tersebut dan dengan kredensial yang sudah dibuat tadi.
 
 ## Penutup
