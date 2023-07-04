@@ -1,3 +1,4 @@
+---
 title: 'Airdrops: lebih baik dari IDO?
 Dan bagaimana cara mendapatkannya'
 date: 2023-01-05
