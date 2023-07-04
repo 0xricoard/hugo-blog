@@ -1,7 +1,7 @@
 ---
 title: 'Airdrops: lebih baik dari IDO?
 Dan bagaimana cara mendapatkannya'
-date: 2023-07-05
+date: 2023-07-04
 draft: false
 author: ["Rico Ardiansyah"]
 categories:
