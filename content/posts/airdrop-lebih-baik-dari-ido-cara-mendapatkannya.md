@@ -37,6 +37,10 @@ Terlepas dari jenis hadiahnya, pesertanya harus memiliki alamat yang sesuai di j
 Airdrops.io adalah situs untuk menemukan dan berpartisipasi dalam airdrops.
 Di sini Anda dapat menemukan airdrop saat ini serta airdrop yang telah berakhir dan dijadwalkan dalam waktu dekat. Di sini Anda dapat melihat airdrop dari koin dan proyek populer serta airdrop dari proyek crypto baru! Anda dapat melacak popularitas proyek di antara komunitas dan pengguna situs. Popularitas ditampilkan dalam derajat, semakin tinggi derajatnya, semakin "panas" proyek tersebut.
 ### Coinmarketcap
+![Cmc airdrop](/img/IMG_6728.png)
 Alat yang sangat berguna untuk memilih dan menemukan airdrops.
 
 [Airdrop](https://coinmarketcap.com/airdrop/) - Di halaman ini, Anda dapat melihat daftar semua airdrop. Anda perlu menyelesaikan beberapa tugas sederhana. Ini bisa berupa langganan ke jejaring sosial, suka atau retweet entri. Tugasnya cukup sederhana, dan tidak terlalu sulit untuk menyelesaikannya. Dimungkinkan juga untuk melacak relevansi acara.
+### PolkaStarter
+![polkastarter](/img/IMG_6729.png)
+Salah satu platform paling populer menawarkan kesempatan untuk berinvestasi dalam token pada tahap IDO. Ini menampilkan analitik yang baik dan kondisi yang menguntungkan untuk semua peserta.
