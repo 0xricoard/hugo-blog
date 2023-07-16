@@ -29,14 +29,14 @@ Jika file google drive tersebut berukuran kurang dari 100mb maka jalankan perint
 ```
 wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=FILEID' -O FILENAME
 ```
-Silakan ubah FILEID dengan ID yang sudah diketahui diatas dan ubah FILENAME dengan nama file sesuka hati kalian.
+Silakan ubah **FILEID** dengan ID yang sudah diketahui diatas dan ubah **FILENAME** dengan nama file sesuka hati kalian.
 
 ## Jika file berukuran lebih dari 100MB
 Jika file google drive tersebut berukuran lebih dari 100mb maka jalankan perintah ini:
 ```
 wget --load-cookies /tmp/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies /tmp/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=FILEID' -O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=FILEID" -O FILENAME && rm -rf /tmp/cookies.txt
 ```
-Sama seperti diatas, Silakan ubah FILEID dengan ID yang sudah diketahui diatas dan ubah FILENAME dengan nama file sesuka hati kalian.
+Sama seperti diatas, Silakan ubah **FILEID** dengan ID yang sudah diketahui diatas dan ubah **FILENAME** dengan nama file sesuka hati kalian.
 
 ## Hasil
 Setelah perintah dieksekusi maka hasilnya sebagai berikut
