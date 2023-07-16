@@ -9,7 +9,7 @@ tags:
 - wget
 - Google Drive
 cover:
-    image: "/img/IMG_6820.png"
+    image: "/img/IMG_6820.jpeg"
 ---
 Buat kalian yang biasa pakai Linux pasti gak asing lagi kan sama tool wget ini. Sebenarnya wget bisa loh buat download file di Google Drive tanpa harus buka browser, sangat membantu buat kalian yang punya Server Linux yang notabenenya gak diinstall Desktop Environment atau GUInya, Nah kalian bisa download file dari Google Drive lewat wget di terminal dengan cara berikut:
 ## Buka Terminal/SSH/CMD/Powershell dll
