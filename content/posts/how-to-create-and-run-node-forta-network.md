@@ -9,7 +9,7 @@ categories:
 tags:
 - Forta Network
 - Node
-- cover:
+cover:
     image: "https://forta.org/wp-content/uploads/2022/06/og-img.jpg"
 ---
 ![Forta Network](https://forta.org/wp-content/uploads/2022/06/og-img.jpg)
