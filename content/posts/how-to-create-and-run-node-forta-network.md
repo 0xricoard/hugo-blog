@@ -2,6 +2,7 @@
 title: 'How to Create and Run a Node on Forta Network'
 date: 2023-07-28
 author: ["Rico Ardiansyah"]
+draft: false
 categories:
 - Tutorial
 - Node
