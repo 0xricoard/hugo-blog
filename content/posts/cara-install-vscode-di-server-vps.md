@@ -18,7 +18,7 @@ VS Code Server adalah komponen dari Visual Studio Code yang memungkinkan Anda me
 Pada artikel kali ini saya akan membuat tutorial Cara install VSCode di VPS yang kemudian dapat diakses melalui browser web. Dalam tutorial ini saya menggunakan VSCode Server dari repository GitHub [Coder.com](https://github.com/coder/code-server).
 
 ## Cara Install
-Ada banyak cara untuk install VSCode server ini yang tercantum pada dokumentasinya https://coder.com/docs/code-server/latest/install. Namun pada kali ini saya hanya akan menggunakan 2 metode populer instalasinya yaitu dengan Script **install.sh** dan **Docker**. 
+Ada banyak cara untuk install VSCode server ini yang tercantum pada dokumentasinya https://coder.com/docs/code-server/latest/install. Namun pada kali ini saya hanya akan menggunakan 2 metode populer dan mudah instalasinya yaitu dengan Script **install.sh** dan **Docker**. 
 
 ### Persyaratan
 Anda memerlukan mesin tempat Anda dapat menjalankan server kode. Anda dapat menggunakan mesin fisik yang Anda miliki, atau menggunakan VM di GCP/AWS atau yang lainnya. Dengan minimun spesifikasi:
