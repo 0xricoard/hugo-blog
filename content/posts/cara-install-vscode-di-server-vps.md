@@ -29,7 +29,7 @@ Anda memerlukan mesin tempat Anda dapat menjalankan server kode. Anda dapat meng
 ### Menggunakan install.sh
 Cara termudah untuk menginstal code-server adalah dengan menggunakan skrip instalasi untuk Linux, macOS dan FreeBSD. Skrip penginstalan mencoba menggunakan manajer paket sistem jika memungkinkan.
 
-#### Untuk menggunkan install.sh, jalankan perintah ini
+#### Untuk menggunakan install.sh, jalankan perintah ini
 ```
 curl -fsSL https://code-server.dev/install.sh | sh
 ```
