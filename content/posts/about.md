@@ -11,6 +11,6 @@ relative: true
 ---
 ## So do you want know about me huh?
 
-I'm just a lonely guy. I love code, movies, blog also being a tech guy <3
+20 y.o from indonesia. I love code, movies, blog also being a tech guy <3
 **Send Me a anonymous message if you want to ask me**
 [https://secreto.site/id/apt4b6](https://secreto.site/id/apt4b6)
