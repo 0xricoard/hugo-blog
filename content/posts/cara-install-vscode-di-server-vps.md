@@ -78,3 +78,4 @@ Ubah nama container dengan nama container yang sudah dibuat
 ## Selesai
 Jika proses instalasi sudah selesai kemudian ketik http://ipvps:8080 di browser dan masukkan password yang sudah ditentukan di file config
 ![tampilan vscode server](/img/tampilan.jpeg)
+**catatan:** jika code-server tidak berjalan dengan lancar atau ada bug dll, dianjurkan untuk memakai HTTPS/SSL untuk caranya bisa kunjungi dokumentasi officialnya [disini](https://coder.com/docs/code-server/latest/guide#using-lets-encrypt-with-nginx)
