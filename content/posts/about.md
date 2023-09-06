@@ -6,7 +6,7 @@ draft: false
 hide: true
 hidden: true
 cover:
-    image: "./img/6883161A-0B31-471D-BC5D-1AD89A56FA7A.png"
+    image: "./img/IMG_7236.jpeg"
 relative: true
 ---
 ## So do you want know about me huh?
