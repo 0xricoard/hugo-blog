@@ -3,8 +3,7 @@ title: 'Perbedaan Google Colab dan Jupyter Notebook'
 date: 2023-05-31
 draft: false
 author: ["Rico Ardiansyah"]
-categories:
-- Perbandingan
+categories: ["Perbandingan"]
 cover:
     image: "https://i.ibb.co/ZB2mW5F/IMG-6329.webp"
 ---
