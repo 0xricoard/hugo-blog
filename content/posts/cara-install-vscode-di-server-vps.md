@@ -3,11 +3,8 @@ title: 'Cara Install VSCode di Server VPS'
 date: 2023-08-01
 draft: false
 author: ["Rico Ardiansyah"]
-categories:
-- Tutorial
-tags:
-- VSCode Server
-- VPS
+categories: ["Tutorial"]
+tags: ["VSCode Server","VPS"]
 cover:
     image: "/img/vscodeserver.png"
 ---
